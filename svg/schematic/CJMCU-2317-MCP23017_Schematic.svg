@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="20mm"
+   height="35mm"
+   viewBox="0 0 75.590551 132.28346"
+   xml:space="preserve"
+   sodipodi:docname="CJMCU-2317-MCP23017_Schematic.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   id="metadata111"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs109">
+	
+		
+	
+	
+	
+	
+	
+
+		
+		
+		
+		
+			
+		
+			
+		
+			
+		
+			
+		
+		
+		
+	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+			
+	</defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   id="namedview107"
+   showgrid="false"
+   inkscape:zoom="8.8881903"
+   inkscape:cx="15.363898"
+   inkscape:cy="45.219066"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1"
+   units="mm"
+   showguides="true"
+   inkscape:guide-bbox="true"><sodipodi:guide
+     position="-10.12394,119.09435"
+     orientation="0,1"
+     id="guide345"
+     inkscape:locked="false" /></sodipodi:namedview>
+
+
+<g
+   id="g42"
+   transform="translate(5.7831653,5.9669526)">
+			
+				
+		</g><text
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+   id="text101"
+   font-size="6"
+   x="-80.061333"
+   y="40.247749"
+   transform="rotate(-91.210064)"><tspan
+     sodipodi:role="line"
+     id="tspan286"
+     x="-80.061333"
+     y="40.247749">MCP23017</tspan></text>
+
+<g
+   id="g1491"
+   transform="translate(3.6814328,7.5670994)"><rect
+     id="part_symbol"
+     x="13.124052"
+     y="5.6220102"
+     width="42.917229"
+     height="107.6388"
+     style="fill:none;stroke:#000000;stroke-width:1.22657728;stroke-linecap:round" /><g
+     id="g244"><line
+       x1="5.4195108"
+       y1="34.820908"
+       x2="12.619511"
+       y2="34.820908"
+       id="line28"
+       style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" /><line
+       x1="5.4195108"
+       y1="27.63928"
+       x2="12.619511"
+       y2="27.63928"
+       id="line30"
+       style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" /><line
+       x1="5.4195108"
+       y1="49.184181"
+       x2="12.619511"
+       y2="49.184181"
+       id="line32"
+       style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" /><line
+       x1="5.4195108"
+       y1="42.002552"
+       x2="12.619511"
+       y2="42.002552"
+       id="line34"
+       style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" /><line
+       x1="5.4195108"
+       y1="63.547455"
+       x2="12.61951"
+       y2="63.547455"
+       id="line28-5"
+       style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" /><line
+       x1="5.4195108"
+       y1="56.365826"
+       x2="12.61951"
+       y2="56.365826"
+       id="line30-1"
+       style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" /><line
+       x1="5.4195108"
+       y1="77.910736"
+       x2="12.61951"
+       y2="77.910736"
+       id="line32-3"
+       style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" /><line
+       x1="5.4195108"
+       y1="70.729095"
+       x2="12.61951"
+       y2="70.729095"
+       id="line34-1"
+       style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" /><line
+       x1="5.4195108"
+       y1="92.27401"
+       x2="12.61951"
+       y2="92.27401"
+       id="line28-59"
+       style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" /><line
+       x1="5.4195108"
+       y1="85.092377"
+       x2="12.61951"
+       y2="85.092377"
+       id="line30-7"
+       style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" /><line
+       x1="5.4195108"
+       y1="106.63728"
+       x2="12.61951"
+       y2="106.63728"
+       id="line32-7"
+       style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" /><line
+       x1="5.4195108"
+       y1="99.455643"
+       x2="12.61951"
+       y2="99.455643"
+       id="line34-5"
+       style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" /><line
+       x1="5.4195108"
+       y1="20.457634"
+       x2="12.61951"
+       y2="20.457634"
+       id="line32-7-6"
+       style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" /><line
+       x1="5.4195108"
+       y1="13.276002"
+       x2="12.61951"
+       y2="13.276002"
+       id="line34-5-6"
+       style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" /></g><g
+     id="g244-9"
+     transform="translate(51.104432,-0.1124842)"><line
+       x1="5.4195108"
+       y1="34.820908"
+       x2="12.619511"
+       y2="34.820908"
+       id="line28-7"
+       style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" /><line
+       x1="5.4195108"
+       y1="27.63928"
+       x2="12.619511"
+       y2="27.63928"
+       id="line30-0"
+       style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" /><line
+       x1="5.4195108"
+       y1="49.184181"
+       x2="12.619511"
+       y2="49.184181"
+       id="line32-5"
+       style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" /><line
+       x1="5.4195108"
+       y1="42.002552"
+       x2="12.619511"
+       y2="42.002552"
+       id="line34-6"
+       style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" /><line
+       x1="5.4195108"
+       y1="63.547455"
+       x2="12.61951"
+       y2="63.547455"
+       id="line28-5-8"
+       style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" /><line
+       x1="5.4195108"
+       y1="56.365826"
+       x2="12.61951"
+       y2="56.365826"
+       id="line30-1-7"
+       style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" /><line
+       x1="5.4195108"
+       y1="77.910736"
+       x2="12.61951"
+       y2="77.910736"
+       id="line32-3-0"
+       style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" /><line
+       x1="5.4195108"
+       y1="70.729095"
+       x2="12.61951"
+       y2="70.729095"
+       id="line34-1-2"
+       style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" /><line
+       x1="5.4195108"
+       y1="92.27401"
+       x2="12.61951"
+       y2="92.27401"
+       id="line28-59-2"
+       style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" /><line
+       x1="5.4195108"
+       y1="85.092377"
+       x2="12.61951"
+       y2="85.092377"
+       id="line30-7-8"
+       style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" /><line
+       x1="5.4195108"
+       y1="106.63728"
+       x2="12.61951"
+       y2="106.63728"
+       id="line32-7-63"
+       style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" /><line
+       x1="5.4195108"
+       y1="99.455643"
+       x2="12.61951"
+       y2="99.455643"
+       id="line34-5-0"
+       style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" /><line
+       x1="5.4195108"
+       y1="20.457634"
+       x2="12.61951"
+       y2="20.457634"
+       id="line32-7-6-5"
+       style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" /><line
+       x1="5.4195108"
+       y1="13.276002"
+       x2="12.61951"
+       y2="13.276002"
+       id="line34-5-6-7"
+       style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" /></g><line
+     x1="34.581337"
+     y1="120.86084"
+     x2="34.583996"
+     y2="113.66084"
+     id="line32-7-67"
+     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" /><line
+     inkscape:transform-center-y="95.533182"
+     inkscape:transform-center-x="1.2885015"
+     x1="34.581337"
+     y1="5.1925998"
+     x2="34.583996"
+     y2="-2.0073972"
+     id="line32-7-67-3"
+     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" /></g><g
+   id="g1577"
+   transform="translate(3.6814328,7.5670994)"><text
+     y="14.477036"
+     x="14.205797"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555"
+     id="text86"
+     font-size="4.5"><tspan
+       y="14.477036"
+       x="14.205797"
+       id="tspan347"
+       sodipodi:role="line">GPB0</tspan></text>
+<text
+     y="21.706692"
+     x="14.205797"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555"
+     id="text86-0"
+     font-size="4.5"><tspan
+       y="21.706692"
+       x="14.205797"
+       id="tspan367"
+       sodipodi:role="line">GPB1</tspan></text>
+<text
+     y="28.938538"
+     x="14.205797"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555"
+     id="text86-0-5"
+     font-size="4.5"><tspan
+       y="28.938538"
+       x="14.205797"
+       id="tspan387"
+       sodipodi:role="line">GPB2</tspan></text>
+<text
+     y="36.170387"
+     x="14.205797"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555"
+     id="text86-0-5-5"
+     font-size="4.5"><tspan
+       y="36.170387"
+       x="14.205797"
+       id="tspan440"
+       sodipodi:role="line">GPB3</tspan></text>
+<text
+     y="43.402237"
+     x="14.205797"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555"
+     id="text86-0-5-5-4"
+     font-size="4.5"><tspan
+       y="43.402237"
+       x="14.205797"
+       id="tspan460"
+       sodipodi:role="line">GPB4</tspan></text>
+<text
+     y="50.634079"
+     x="14.205797"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555"
+     id="text86-0-5-5-47"
+     font-size="4.5"><tspan
+       y="50.634079"
+       x="14.205797"
+       id="tspan470"
+       sodipodi:role="line">GPB5</tspan></text>
+<text
+     y="57.865929"
+     x="14.205797"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555"
+     id="text86-0-5-5-5"
+     font-size="4.5"><tspan
+       y="57.865929"
+       x="14.205797"
+       id="tspan480"
+       sodipodi:role="line">GPB6</tspan></text>
+<text
+     y="65.097778"
+     x="14.205797"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555"
+     id="text86-0-5-5-6"
+     font-size="4.5"><tspan
+       y="65.097778"
+       x="14.205797"
+       id="tspan490"
+       sodipodi:role="line">GPB7</tspan></text>
+<text
+     y="72.409836"
+     x="14.480455"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555"
+     id="text86-0-5-5-6-3"
+     font-size="4.5"><tspan
+       y="72.409836"
+       x="14.480455"
+       id="tspan510"
+       sodipodi:role="line">Vdd</tspan></text>
+<text
+     y="79.538406"
+     x="14.480455"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555"
+     id="text86-0-5-5-6-3-8"
+     font-size="4.5"><tspan
+       y="79.538406"
+       x="14.480455"
+       id="tspan530"
+       sodipodi:role="line">Vss</tspan></text>
+<text
+     y="86.795532"
+     x="14.0432"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555"
+     id="text86-0-5-5-6-3-8-8"
+     font-size="4.5"><tspan
+       y="86.795532"
+       x="14.0432"
+       id="tspan1386"
+       sodipodi:role="line">NC/SO</tspan></text>
+<text
+     y="94.025177"
+     x="14.25194"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555"
+     id="text86-0-5-5-6-3-8-8-7"
+     font-size="4.5"><tspan
+       y="94.025177"
+       x="14.25194"
+       id="tspan1406"
+       sodipodi:role="line">SDA/SI</tspan></text>
+<text
+     y="101.25703"
+     x="14.25194"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555"
+     id="text86-0-5-5-6-3-8-8-7-5"
+     font-size="4.5"><tspan
+       y="101.25703"
+       x="14.25194"
+       id="tspan1426"
+       sodipodi:role="line">SCL/SCK</tspan></text>
+<text
+     y="108.48888"
+     x="14.0432"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555"
+     id="text86-0-5-5-6-3-8-8-7-5-2"
+     font-size="4.5"><tspan
+       y="108.48888"
+       x="14.0432"
+       id="tspan1511"
+       sodipodi:role="line">NC/CS</tspan></text>
+</g><g
+   id="g1802"
+   transform="translate(0.92035856,7.5670994)"><text
+     y="13.994674"
+     x="46.873142"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555"
+     id="text86-6"
+     font-size="4.5"><tspan
+       y="13.994674"
+       x="46.873142"
+       id="tspan1746"
+       sodipodi:role="line">GPA7</tspan></text>
+<text
+     y="21.226191"
+     x="46.864353"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555"
+     id="text86-0-2"
+     font-size="4.5"><tspan
+       y="21.226191"
+       x="46.864353"
+       id="tspan1748"
+       sodipodi:role="line">GPA6</tspan></text>
+<text
+     y="28.457701"
+     x="46.908298"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555"
+     id="text86-0-5-1"
+     font-size="4.5"><tspan
+       y="28.457701"
+       x="46.908298"
+       id="tspan1750"
+       sodipodi:role="line">GPA5</tspan></text>
+<text
+     y="35.689213"
+     x="46.747898"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555"
+     id="text86-0-5-5-41"
+     font-size="4.5"><tspan
+       y="35.689213"
+       x="46.747898"
+       id="tspan1752"
+       sodipodi:role="line">GPA4</tspan></text>
+<text
+     y="42.920727"
+     x="46.925877"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555"
+     id="text86-0-5-5-4-1"
+     font-size="4.5"><tspan
+       y="42.920727"
+       x="46.925877"
+       id="tspan1754"
+       sodipodi:role="line">GPA3</tspan></text>
+<text
+     y="50.152233"
+     x="46.921482"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555"
+     id="text86-0-5-5-47-3"
+     font-size="4.5"><tspan
+       y="50.152233"
+       x="46.921482"
+       id="tspan1756"
+       sodipodi:role="line">GPA2</tspan></text>
+<text
+     y="57.383747"
+     x="47.57407"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555"
+     id="text86-0-5-5-5-6"
+     font-size="4.5"><tspan
+       y="57.383747"
+       x="47.57407"
+       id="tspan1758"
+       sodipodi:role="line">GPA1</tspan></text>
+<text
+     y="64.617455"
+     x="46.868748"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555"
+     id="text86-0-5-5-6-5"
+     font-size="4.5"><tspan
+       y="64.617455"
+       x="46.868748"
+       id="tspan1760"
+       sodipodi:role="line">GPA0</tspan></text>
+<text
+     y="71.852264"
+     x="47.780613"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555"
+     id="text86-0-5-5-6-3-3"
+     font-size="4.5"><tspan
+       y="71.852264"
+       x="47.780613"
+       id="tspan1762"
+       sodipodi:role="line">INTA</tspan></text>
+<text
+     y="79.077179"
+     x="47.697117"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555"
+     id="text86-0-5-5-6-3-8-9"
+     font-size="4.5"><tspan
+       y="79.077179"
+       x="47.697117"
+       id="tspan1764"
+       sodipodi:role="line">INTB</tspan></text>
+<text
+     y="86.309799"
+     x="45.361423"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555"
+     id="text86-0-5-5-6-3-8-8-1"
+     font-size="4.5"><tspan
+       y="86.309799"
+       x="45.361423"
+       id="tspan1766"
+       sodipodi:role="line">RESET</tspan></text>
+<text
+     y="93.563278"
+     x="52.441013"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555"
+     id="text86-0-5-5-6-3-8-8-7-4"
+     font-size="4.5"><tspan
+       y="93.563278"
+       x="52.441013"
+       id="tspan1768"
+       sodipodi:role="line">A2</tspan></text>
+<text
+     y="100.77831"
+     x="53.093601"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555"
+     id="text86-0-5-5-6-3-8-8-7-5-8"
+     font-size="4.5"><tspan
+       y="100.77831"
+       x="53.093601"
+       id="tspan1770"
+       sodipodi:role="line">A1</tspan></text>
+<text
+     y="108.00652"
+     x="52.388279"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555"
+     id="text86-0-5-5-6-3-8-8-7-5-2-6"
+     font-size="4.5"><tspan
+       y="108.00652"
+       x="52.388279"
+       id="tspan1772"
+       sodipodi:role="line">A0</tspan></text>
+</g><text
+   font-size="4.5"
+   id="text86-0-5-5-6-3-8-8-7-5-2-6-3"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555"
+   x="32.545647"
+   y="118.81705"><tspan
+     sodipodi:role="line"
+     id="tspan1724"
+     x="32.545647"
+     y="118.81705">GND</tspan></text>
+<text
+   font-size="4.5"
+   id="text86-0-5-5-6-3-8-8-7-5-2-6-3-1"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555"
+   x="33.557289"
+   y="18.498011"
+   inkscape:transform-center-x="-37.182471"
+   inkscape:transform-center-y="67.18615"><tspan
+     sodipodi:role="line"
+     id="tspan1744"
+     x="33.557289"
+     y="18.498011">VCC</tspan></text>
+<line
+   x1="46.980686"
+   y1="89.755127"
+   x2="57.765053"
+   y2="89.755127"
+   id="line30-7-8-9"
+   style="fill:none;stroke:#555555;stroke-width:0.457;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" /></svg>
