@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="57.643002"
+   height="40"
+   viewBox="0 0 57.643 40"
+   xml:space="preserve"
+   sodipodi:docname="XY-ITOV_schematic.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   id="metadata111"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs109">
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+			
+	
+		
+		
+		
+		
+			
+		
+			
+		
+			
+		
+			
+		
+		
+		
+	
+
+
+</defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   id="namedview107"
+   showgrid="false"
+   inkscape:zoom="15.320924"
+   inkscape:cx="20.5887"
+   inkscape:cy="18.277702"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="schematic"
+   showguides="true"
+   inkscape:guide-bbox="true" />
+
+
+<g
+   id="schematic"
+   transform="translate(0,-31.833)">
+	
+		
+	<g
+   id="g18">
+			
+				
+		</g>
+	
+	<g
+   id="g76">
+			
+				
+		</g>
+	
+	
+<rect
+   id="part_symbol"
+   x="7.0543942"
+   y="39.584183"
+   width="43.490211"
+   height="30.759413"
+   style="fill:#ffffff;stroke:#000000;stroke-width:0.66005403;stroke-linecap:round" /><g
+   id="g38"
+   transform="translate(0,32.529788)">
+			
+				
+		</g><text
+   font-size="6"
+   id="text101"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+   x="18.24823"
+   y="46.839085"><tspan
+     sodipodi:role="line"
+     id="tspan2686"
+     x="18.24823"
+     y="46.839085">XY-ITOV</tspan></text>
+
+
+<g
+   id="g1192"
+   transform="translate(0,-0.18465416)"><g
+     transform="translate(0,33.04361)"
+     id="g1005"><line
+       style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+       id="connector1pin"
+       y2="14.799999"
+       x2="7.1999998"
+       y1="14.799999"
+       x1="0" /><line
+       style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+       id="connector2pin"
+       y2="22"
+       x2="7.1999998"
+       y1="22"
+       x1="0" /></g><g
+     transform="translate(0.18461204,-0.04615301)"
+     id="g1178">
+<g
+   id="g1022"
+   transform="translate(-1.1984715,32.662235)"><text
+   y="16.913425"
+   x="9.2189999"
+   font-size="4.5"
+   id="text88"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;fill:#555555;"><tspan
+     sodipodi:role="line"
+     id="tspan2717">I+</tspan></text>
+
+<text
+   y="23.97308"
+   x="8.8256893"
+   font-size="4.5"
+   id="text90"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;fill:#555555;"><tspan
+     sodipodi:role="line"
+     id="tspan2719">I-</tspan></text>
+
+</g></g></g><g
+   id="g1120"
+   transform="translate(0,-0.11421645)"><g
+     transform="translate(0,26.324111)"
+     id="g42">
+			
+				<line
+   x1="50.401001"
+   y1="28.799999"
+   x2="57.599998"
+   y2="28.799999"
+   id="connector5pin"
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" />
+		</g><g
+     transform="translate(0,26.324111)"
+     id="g46">
+			
+				<line
+   x1="50.401001"
+   y1="21.6"
+   x2="57.599998"
+   y2="21.604"
+   id="connector4pin"
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" />
+		</g></g><g
+   id="g42-4"
+   transform="translate(0,33.409894)"><line
+     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+     id="line40-9"
+     y2="28.799999"
+     x2="57.599998"
+     y1="28.799999"
+     x1="50.401001" /></g><g
+   id="g2715"
+   transform="translate(-6)"><text
+     y="49.225567"
+     x="47.876484"
+     font-size="4.5"
+     id="text94"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555"><tspan
+       sodipodi:role="line"
+       id="tspan2692"
+       x="47.876484"
+       y="49.225567">VCC</tspan></text>
+<text
+     y="56.593536"
+     x="44.312519"
+     font-size="4.5"
+     id="text96"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555"><tspan
+       sodipodi:role="line"
+       id="tspan2694"
+       x="44.312519"
+       y="56.593536">VOUT</tspan></text>
+<text
+     y="63.818584"
+     x="46.373554"
+     font-size="4.5"
+     id="text78-2"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555"><tspan
+       y="63.818584"
+       x="46.373554"
+       id="tspan945-2"
+       sodipodi:role="line">GND</tspan></text>
+</g></g>
+</svg>
