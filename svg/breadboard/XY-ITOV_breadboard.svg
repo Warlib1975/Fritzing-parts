@@ -43,9 +43,9 @@
      id="namedview122"
      showgrid="false"
      inkscape:document-units="mm"
-     inkscape:zoom="5.0077969"
-     inkscape:cx="95.537088"
-     inkscape:cy="56.643134"
+     inkscape:zoom="6.6433805"
+     inkscape:cx="80.021252"
+     inkscape:cy="33.443865"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -152,7 +152,7 @@ g[c_partid=&quot;part_pad&quot;] &gt; polyline:nth-of-type(2) {stroke: #222222;}
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="Image"
-     style="display:inline">
+     style="display:none">
     <image
        y="2990.137"
        x="3990.3293"
@@ -201,7 +201,7 @@ g[c_partid=&quot;part_pad&quot;] &gt; polyline:nth-of-type(2) {stroke: #222222;}
      inkscape:label="Components"
      style="display:inline">
     <polyline
-       style="fill:#1d4a73;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;shape-rendering:crispEdges"
+       style="fill:#1d4a73;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;shape-rendering:crispEdges;opacity:1"
        id="polyline8"
        locked=""
        layerid="3"
@@ -228,10 +228,11 @@ g[c_partid=&quot;part_pad&quot;] &gt; polyline:nth-of-type(2) {stroke: #222222;}
            transform="rotate(-58.382509,4064.0438,2900.7102)">
           <circle
              r="6.8841047"
-             cy="3030.7239"
-             cx="4001.9211"
+             cy="-4016.8081"
+             cx="3010.9651"
              id="path10259-6"
-             style="opacity:1;fill:#4c4147;fill-opacity:1;stroke:none;stroke-width:0.64960635;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;shape-rendering:crispEdges" />
+             style="opacity:1;fill:#4c4147;fill-opacity:1;stroke:none;stroke-width:0.64960635;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;shape-rendering:crispEdges"
+             transform="rotate(90.282359)" />
           <rect
              y="3023.8428"
              x="4000.7458"
@@ -1506,6 +1507,137 @@ g[c_partid=&quot;part_pad&quot;] &gt; polyline:nth-of-type(2) {stroke: #222222;}
          id="connector2pin"
          style="fill:none;stroke:#ffbf00;stroke-width:1.19999993;shape-rendering:crispEdges"
          transform="scale(1,-1)" />
+    </g>
+    <g
+       transform="matrix(0,-0.51709781,0.61109127,0,2227.6252,5103.058)"
+       style="display:inline"
+       id="g9655-0-26-4-9">
+      <rect
+         y="3047.2449"
+         x="4031.2852"
+         height="11.548314"
+         width="5.9185109"
+         id="rect9633-3-1-1-40"
+         style="opacity:1;fill:#8a6a55;fill-opacity:1;stroke:none;stroke-width:0.64960635;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;shape-rendering:crispEdges" />
+      <rect
+         y="3056.7722"
+         x="4031.2852"
+         height="2.0209551"
+         width="5.9184437"
+         id="rect9635-3-5-7-9"
+         style="opacity:1;fill:#92887c;fill-opacity:1;stroke:none;stroke-width:0.65767258;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;shape-rendering:crispEdges" />
+      <rect
+         y="3047.2449"
+         x="4031.2852"
+         height="2.0209551"
+         width="5.9184437"
+         id="rect9635-1-8-84-7-7"
+         style="display:inline;opacity:1;fill:#92887c;fill-opacity:1;stroke:none;stroke-width:0.65767258;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;shape-rendering:crispEdges" />
+    </g>
+    <text
+       id="text1729-3-5-7"
+       y="3008.1975"
+       x="4104.3218"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.94444466px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.04166698"
+       xml:space="preserve"
+       inkscape:transform-center-x="-24.129041"
+       inkscape:transform-center-y="-1.6640718"><tspan
+         sodipodi:role="line"
+         id="tspan1098"
+         x="4104.3218"
+         y="3008.1975">1</tspan></text>
+    <text
+       id="text1729-3-5-7-8"
+       y="2997.9016"
+       x="4103.4878"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.94444466px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.04166698"
+       xml:space="preserve"
+       inkscape:transform-center-x="-24.129041"
+       inkscape:transform-center-y="-1.6640718"><tspan
+         sodipodi:role="line"
+         id="tspan1118"
+         x="4103.4878"
+         y="2997.9016">2</tspan></text>
+    <text
+       id="text1729-3-5-7-8-8"
+       y="3008.1296"
+       x="4130.6396"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.94444466px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.04166698"
+       xml:space="preserve"
+       inkscape:transform-center-x="-24.129041"
+       inkscape:transform-center-y="-1.6640718"><tspan
+         sodipodi:role="line"
+         id="tspan1140"
+         x="4130.6396"
+         y="3008.1296">3</tspan></text>
+    <text
+       id="text1729-3-5-7-8-8-6"
+       y="2997.8303"
+       x="4130.8193"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.94444466px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.04166698"
+       xml:space="preserve"
+       inkscape:transform-center-x="-24.129041"
+       inkscape:transform-center-y="-1.6640718"><tspan
+         sodipodi:role="line"
+         id="tspan1160"
+         x="4130.8193"
+         y="2997.8303">4</tspan></text>
+    <text
+       id="text1729-3-5-7-8-8-6-3"
+       y="3002.8938"
+       x="4136.4155"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.94444466px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.04166698"
+       xml:space="preserve"
+       inkscape:transform-center-x="-24.129041"
+       inkscape:transform-center-y="-1.6640718"><tspan
+         sodipodi:role="line"
+         id="tspan1180"
+         x="4136.4155"
+         y="3002.8938">J1</tspan></text>
+    <text
+       id="text1729-3-5-7-8-8-6-3-6"
+       y="3067.551"
+       x="3990.593"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.55555565px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.04166698;"
+       xml:space="preserve"
+       inkscape:transform-center-x="-24.129041"
+       inkscape:transform-center-y="-1.6640718"><tspan
+         sodipodi:role="line"
+         id="tspan1200">D2</tspan></text>
+    <g
+       id="g1245">
+      <rect
+         y="3052.6252"
+         x="4062.3872"
+         height="4.1601796"
+         width="11.232485"
+         id="rect1202"
+         style="opacity:1;fill:#262626;fill-opacity:1;stroke:none;stroke-width:0.64960635;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;shape-rendering:crispEdges" />
+      <rect
+         y="3056.7766"
+         x="4067.2273"
+         height="3.3816178"
+         width="1.5522178"
+         id="rect1204"
+         style="opacity:1;fill:#b6b0a2;fill-opacity:1;stroke:none;stroke-width:0.64960635;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;shape-rendering:crispEdges" />
+      <g
+         transform="translate(0.00444013)"
+         id="g1238">
+        <rect
+           style="display:inline;opacity:1;fill:#b6b0a2;fill-opacity:1;stroke:none;stroke-width:0.64960635;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;shape-rendering:crispEdges"
+           id="rect1204-1"
+           width="1.5522178"
+           height="3.3816178"
+           x="4063.481"
+           y="3049.2373" />
+        <rect
+           style="display:inline;opacity:1;fill:#b6b0a2;fill-opacity:1;stroke:none;stroke-width:0.64960635;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;shape-rendering:crispEdges"
+           id="rect1204-1-0"
+           width="1.5522178"
+           height="3.3816178"
+           x="4070.9648"
+           y="3049.2097" />
+      </g>
     </g>
   </g>
 </svg>
