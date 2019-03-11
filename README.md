@@ -1,5 +1,5 @@
 # Fritzing-parts
-Fritzing parts for my projects
+Fritzing parts for my IoT projects.
 
 1. MCP23017 (CJMCU-2317 board)  - http://www.bizkit.ru/2019/02/20/12466/ - GPIO ports expander
 2. SIM800C board                - http://www.bizkit.ru/2019/02/05/11989/ - 2G GSM board SIM800C
