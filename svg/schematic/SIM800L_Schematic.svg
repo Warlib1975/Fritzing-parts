@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16mm"
+   height="14mm"
+   viewBox="0 0 56.692912 49.606299"
+   id="svg41630"
+   version="1.1"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Sim800L_Schematic.svg">
+  <defs
+     id="defs41632" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="6.0394041"
+     inkscape:cx="90.825639"
+     inkscape:cy="38.387565"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata41635">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1002.7559)">
+    <g
+       id="g2419"
+       transform="matrix(0.93749997,0,0,0.93749997,0.33538,995.7706)">
+      <rect
+         id="part_symbol"
+         x="8.1847076"
+         y="8.3589201"
+         width="43.305695"
+         height="51.025627"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.84832323;stroke-linecap:round" />
+      <g
+         id="text101"
+         style="font-size:6px;font-family:DroidSans"
+         transform="rotate(0.32530582)"
+         aria-label="SIM800C " />
+      <g
+         id="g1036">
+        <line
+           x1="1.0380534"
+           y1="30.012268"
+           x2="8.2380552"
+           y2="30.012268"
+           id="line28"
+           style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" />
+        <line
+           x1="1.0380534"
+           y1="22.812267"
+           x2="8.2380552"
+           y2="22.812267"
+           id="line30"
+           style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" />
+        <line
+           x1="1.0380534"
+           y1="44.41227"
+           x2="8.2380552"
+           y2="44.41227"
+           id="line32"
+           style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" />
+        <line
+           x1="1.0380534"
+           y1="37.212269"
+           x2="8.2380552"
+           y2="37.212269"
+           id="line34"
+           style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" />
+        <line
+           x1="0.91112399"
+           y1="15.919342"
+           x2="8.1111231"
+           y2="15.919342"
+           id="line30-6"
+           style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" />
+        <line
+           x1="0.92510986"
+           y1="51.66906"
+           x2="8.1251125"
+           y2="51.66906"
+           id="line28-8"
+           style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" />
+      </g>
+      <g
+         id="g1036-0"
+         transform="translate(50.737335,-0.13451951)">
+        <line
+           x1="1.0380534"
+           y1="30.012268"
+           x2="8.2380552"
+           y2="30.012268"
+           id="line28-0"
+           style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" />
+        <line
+           x1="1.0380534"
+           y1="22.812267"
+           x2="8.2380552"
+           y2="22.812267"
+           id="line30-7"
+           style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" />
+        <line
+           x1="1.0380534"
+           y1="44.41227"
+           x2="8.2380552"
+           y2="44.41227"
+           id="line32-8"
+           style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" />
+        <line
+           x1="1.0380534"
+           y1="37.212269"
+           x2="8.2380552"
+           y2="37.212269"
+           id="line34-0"
+           style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" />
+        <line
+           x1="0.91112399"
+           y1="15.919342"
+           x2="8.1111231"
+           y2="15.919342"
+           id="line30-6-5"
+           style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" />
+        <line
+           x1="0.92510986"
+           y1="51.66906"
+           x2="8.1251125"
+           y2="51.66906"
+           id="line28-8-6"
+           style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" />
+      </g>
+    </g>
+    <text
+       id="text42594-0-4"
+       y="1012.1667"
+       x="15.713802"
+       font-size="1.23472"
+       class="text"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.74999976px;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0">NET</text>
+    <text
+       id="text42598-7-8"
+       y="1018.8428"
+       x="15.867611"
+       font-size="1.23472"
+       class="text"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.74999976px;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0">VCC</text>
+    <text
+       id="text42602-2-3"
+       y="1025.5176"
+       x="15.003353"
+       font-size="1.23472"
+       class="text"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.74999976px;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0">RST</text>
+    <text
+       id="text42594-4-9-1"
+       y="1032.1915"
+       x="15.962826"
+       font-size="1.23472"
+       class="text"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.74999976px;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0">RXD</text>
+    <text
+       id="text42598-6-3-6"
+       y="1038.8665"
+       x="15.917049"
+       font-size="1.23472"
+       class="text"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.74999976px;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0">TXD</text>
+    <text
+       id="text42602-3-8-7"
+       y="1045.5425"
+       x="17.019344"
+       font-size="1.23472"
+       class="text"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.74999976px;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0">GND</text>
+    <text
+       id="text42594-2"
+       y="1011.5469"
+       x="47.658085"
+       font-size="1.23472"
+       class="text"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.74999976px;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0">RING</text>
+    <text
+       id="text42598-4"
+       y="1018.2768"
+       x="47.359623"
+       font-size="1.23472"
+       class="text"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.74999976px;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0">DTR</text>
+    <text
+       id="text42602-4"
+       y="1025.0092"
+       x="47.522587"
+       font-size="1.23472"
+       class="text"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.74999976px;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0">MCP</text>
+    <text
+       id="text42594-4-1"
+       y="1031.7401"
+       x="47.694706"
+       font-size="1.23472"
+       class="text"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.74999976px;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0">MCN</text>
+    <text
+       id="text42598-6-7"
+       y="1038.4712"
+       x="47.522587"
+       font-size="1.23472"
+       class="text"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.74999976px;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0">SPKP</text>
+    <text
+       id="text42602-3-81"
+       y="1045.2023"
+       x="47.694706"
+       font-size="1.23472"
+       class="text"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.74999976px;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0">SPKN</text>
+    <text
+       y="1028.494"
+       x="27.716232"
+       font-size="1.49931"
+       id="text42626-5"
+       class="text"
+       style="font-size:4.99999979px;line-height:0%;font-family:'Droid Sans';text-anchor:middle;fill:#000000;stroke:none;stroke-width:0;-inkscape-font-specification:'Droid Sans, Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;text-align:center;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">SIM800L</text>
+  </g>
+</svg>
