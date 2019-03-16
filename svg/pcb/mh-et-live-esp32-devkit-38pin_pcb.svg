@@ -1,0 +1,1822 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   x="0in"
+   version="1.2"
+   height="28.5mm"
+   id="svg6398"
+   gorn="0"
+   width="55.5mm"
+   y="0in"
+   viewBox="0 0 157.32311 80.787409"
+   sodipodi:docname="mh-et-live-esp32-devkit-38pin_pcb.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview8074"
+     showgrid="true"
+     inkscape:zoom="6.3235468"
+     inkscape:cx="110.08054"
+     inkscape:cy="53.141601"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:lockguides="true"
+     inkscape:snap-to-guides="false"
+     inkscape:snap-grids="false"
+     inkscape:document-units="mm">
+    <inkscape:grid
+       type="xygrid"
+       id="grid55412"
+       units="mm"
+       spacingy="4.2519687"
+       spacingx="7.2000126"
+       originx="4.9606386"
+       originy="-1.36063" />
+    <sodipodi:guide
+       position="-5.3974438,76.307209"
+       orientation="0,1"
+       id="guide68027"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="-11.195729,4.317165"
+       orientation="0,1"
+       id="guide68029"
+       inkscape:locked="true" />
+  </sodipodi:namedview>
+  <desc
+     id="desc831">
+    <referenceFile>Adafruit HUZZAH32 ESP32 Feather_breadboard.svg</referenceFile>
+  </desc>
+  <metadata
+     id="metadata10323">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10321">
+    <clipPath
+       id="clipPath28082-4"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         connector-curvature="0"
+         id="path28084-3"
+         gorn="0.4.0.0.284.0.0.0.0.0.0.0.0"
+         d="m 402.931,330.705 h 0.8048 v -22.6576 h -0.8048 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath28154-6"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         connector-curvature="0"
+         id="path28156-5"
+         gorn="0.4.0.0.284.0.0.0.0.0.0.1.0"
+         d="m 397.068,330.705 h 0.8048 v -22.6576 h -0.8048 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath28226-1"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         connector-curvature="0"
+         id="path28228-9"
+         gorn="0.4.0.0.284.0.0.0.0.0.0.2.0"
+         d="m 391.207,330.705 h 0.8048 v -22.6576 h -0.8048 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath28296-1"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         connector-curvature="0"
+         id="path28298-7"
+         gorn="0.4.0.0.284.0.0.0.0.0.0.3.0"
+         d="m 386.722,314.65 h 22.6576 v -0.8048 H 386.722 Z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath28362-8"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         connector-curvature="0"
+         id="path28364-4"
+         gorn="0.4.0.0.284.0.0.0.0.0.0.4.0"
+         d="m 386.722,320.512 h 22.6576 v -0.8048 H 386.722 Z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath28426-7"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         connector-curvature="0"
+         id="path28428-1"
+         gorn="0.4.0.0.284.0.0.0.0.0.0.5.0"
+         d="m 386.722,326.374 h 22.6576 v -0.8048 H 386.722 Z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath28518-2"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         connector-curvature="0"
+         id="path28520-9"
+         gorn="0.4.0.0.284.0.0.0.0.0.0.6.0"
+         d="m 405.689,328.102 h 1.1504 v -1.1456 h -1.1504 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath28658-3"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         connector-curvature="0"
+         id="path28660-0"
+         gorn="0.4.0.0.284.0.0.0.0.0.0.7.0"
+         d="m 387.797,299.115 h 24.0136 v -2.2976 H 387.797 Z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath28814-9"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         connector-curvature="0"
+         id="path28816-9"
+         gorn="0.4.0.0.284.0.0.0.0.0.0.8.0"
+         d="m 416.979,335.18 h 4.5112 v -1.744 h -4.5112 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath28958-2"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         connector-curvature="0"
+         id="path28960-5"
+         gorn="0.4.0.0.284.0.0.0.0.0.0.9.0"
+         d="m 378.544,349.774 h 3.1992 v -8.27597 h -3.1992 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath29102-8"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         connector-curvature="0"
+         id="path29104-9"
+         gorn="0.4.0.0.284.0.0.0.0.0.0.10.0"
+         d="m 416.591,328.549 h 4.552 v -1.76 h -4.552 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath29246-8"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         connector-curvature="0"
+         id="path29248-6"
+         gorn="0.4.0.0.284.0.0.0.0.0.0.11.0"
+         d="m 379.056,301.877 h 4.552 v -1.76 h -4.552 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath29402-3"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         connector-curvature="0"
+         id="path29404-5"
+         gorn="0.4.0.0.284.0.0.0.0.0.0.12.0"
+         d="m 376.062,308.223 h 5.2896 v -2.0456 h -5.2896 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath29546-9"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         connector-curvature="0"
+         id="path29548-6"
+         gorn="0.4.0.0.284.0.0.0.0.0.0.13.0"
+         d="m 423.766,289.6 h 1.292 v -4.2432 h -1.292 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath29690-2"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         connector-curvature="0"
+         id="path29692-4"
+         gorn="0.4.0.0.284.0.0.0.0.0.0.14.0"
+         d="m 368.42,294.529 h 1.292 v -4.2432 h -1.292 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath29834-4"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         connector-curvature="0"
+         id="path29836-5"
+         gorn="0.4.0.0.284.0.0.0.0.0.0.15.0"
+         d="m 368.852,331.17 h 1.292 v -4.244 h -1.292 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath29978-3"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         connector-curvature="0"
+         id="path29980-5"
+         gorn="0.4.0.0.284.0.0.0.0.0.0.16.0"
+         d="m 374.413,312.352 h 4.5104 v -1.744 h -4.5104 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <mask
+       x="0"
+       height="1"
+       id="mask30058-5"
+       maskUnits="userSpaceOnUse"
+       width="1"
+       y="0">
+      <g
+         id="g30060-7"
+         gorn="0.4.0.0.284.0.0.0.0.0.0.17.0">
+        <g
+           id="g30062-9"
+           gorn="0.4.0.0.284.0.0.0.0.0.0.17.0.0"
+           clip-path="url(#clipPath30050)">
+          <g
+             id="g30064-2"
+             gorn="0.4.0.0.284.0.0.0.0.0.0.17.0.0.0">
+            <g
+               id="g30066-1"
+               gorn="0.4.0.0.284.0.0.0.0.0.0.17.0.0.0.0" />
+            <g
+               id="g30068-3"
+               gorn="0.4.0.0.284.0.0.0.0.0.0.17.0.0.0.1">
+              <g
+                 id="g30070-8"
+                 gorn="0.4.0.0.284.0.0.0.0.0.0.17.0.0.0.1.0"
+                 clip-path="url(#clipPath30054)">
+                <g
+                   id="g30072-3"
+                   gorn="0.4.0.0.284.0.0.0.0.0.0.17.0.0.0.1.0.0">
+                  <g
+                     transform="matrix(7.92,0,0,13.92,372.628,318.164)"
+                     id="g2729-2">
+                    <g
+                       id="g2727-6">
+                      <g
+                         id="g30074-3"
+                         gorn="0.4.0.0.284.0.0.0.0.0.0.17.0.0.0.1.0.0.0.0.0">
+                        <g
+                           transform="matrix(1,0,0,-1,0,0.799999)"
+                           id="g2724-0">
+                          <g
+                             id="g2722-1">
+                            <image
+                               height="1"
+                               preserveAspectRatio="none"
+                               id="image30076-3"
+                               width="1"
+                               href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAA6CAYAAAA+9TA3AAAABHNCSVQICAgIfAhkiAAAAjZJREFUWIXtl09P02Acx79tysbGdt8FlfZCueCLUMMugkb+RONFiAfDrGfDJAbi1RVPhOkLMDAYIcEXYcD7tnYGg9kOu3TGNtn2eHomSzftX+eS53Nqf3n69JPn6e/blpOu3yAYMvywBQAm8RsmQWESlP9CQnB7wfMXCkRRwkRiAslkEiuLS74lOD+J+fnLOcqlEgzDQNNoolrVob7NuZ7H9UpcRatotpV4srYKnuOR39v7NxKWZdlqH/LvAQBz6TQ+nZ6GLxGNRm01Lysxms8E7Y5YPIZyqTT87giK0QyrjKLgnar21F5ubODWndv4fnkJ86eJDumAEIKnq2vhSExem7TV3mxvQ56R8fjho25tN++8OwLbjkaj0XPebnfCk/h2cdG3rlUqPeeWaTqe0/V27ORUZBQFoigiEonAtEx8rVZt+aDrmuM5WYtSRlOieHKC/cPCX8dlFCU8CXlGhiRJeL219cdx/fJkEK674/zsDMsPFgF4e20HIlGv17vH9AOmn8ygPAlEolIu22pU5tn6OlKpFGq1GnZyqm3cIFhOUEZTguUEheUEheVEmHj6A5uaEjEeGwfP8+A4DhzHQRAEJBJJzN6cxY9mE8fFY2xms47mDHw7CsUjAMD9+QXH1/j6K78K7RA3Nw9UYi6d7naIF3xJDC2sAODjwQHGxgTcuzvv6+aeJbKbrzAtTyMej2P/sADDMNBqtUAIASEE7XYHlmlC1zXHgcXCisIkKEyCwiQoTILyC9uJ7rGHeCQyAAAAAElFTkSuQmCC" />
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </mask>
+    <clipPath
+       id="clipPath30082-3"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         connector-curvature="0"
+         id="path30084-6"
+         gorn="0.4.0.0.284.0.0.0.0.0.0.18.0"
+         d="m 374.306,327.671 h 2.8192 v -7.62797 h -2.8192 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <mask
+       x="0"
+       height="1"
+       id="mask30196-5"
+       maskUnits="userSpaceOnUse"
+       width="1"
+       y="0">
+      <g
+         id="g30198-2"
+         gorn="0.4.0.0.284.0.0.0.0.0.0.19.0">
+        <g
+           id="g30200-2"
+           gorn="0.4.0.0.284.0.0.0.0.0.0.19.0.0"
+           clip-path="url(#clipPath30188-3)">
+          <g
+             id="g30202-6"
+             gorn="0.4.0.0.284.0.0.0.0.0.0.19.0.0.0">
+            <g
+               id="g30204-7"
+               gorn="0.4.0.0.284.0.0.0.0.0.0.19.0.0.0.0" />
+            <g
+               id="g30206-4"
+               gorn="0.4.0.0.284.0.0.0.0.0.0.19.0.0.0.1">
+              <g
+                 id="g30208-7"
+                 gorn="0.4.0.0.284.0.0.0.0.0.0.19.0.0.0.1.0"
+                 clip-path="url(#clipPath30192)">
+                <g
+                   id="g30210-5"
+                   gorn="0.4.0.0.284.0.0.0.0.0.0.19.0.0.0.1.0.0">
+                  <g
+                     transform="matrix(8.16,0,0,13.92,417.172,313.748)"
+                     id="g2749-2">
+                    <g
+                       id="g2747-0">
+                      <g
+                         id="g30212-5"
+                         gorn="0.4.0.0.284.0.0.0.0.0.0.19.0.0.0.1.0.0.0.0.0">
+                        <g
+                           transform="matrix(1,0,0,-1,0,0.799999)"
+                           id="g2744-0">
+                          <g
+                             id="g2742-4">
+                            <image
+                               height="1"
+                               preserveAspectRatio="none"
+                               id="image30214-1"
+                               width="1"
+                               href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACIAAAA6CAYAAADVwos0AAAABHNCSVQICAgIfAhkiAAAAf1JREFUWIXtl8tO20AUhv+ZCQqXsKGbbLgEnoC+RhBdtaJCRQQbFijB8BoISrg0Io3DG6C2CN4CkbADQWARNllkFYJAEQ4LakucJmLGENWL+SQvxjM6+uw553jMxoZHmggA/H8LuGgRihahaBGKFqEoi6yur8FaWZZen7KszohEIv3Y3EhjzjRgzs+/un5waFAqbkhVxGXPzgMA5kwDnHHYuZzfUP5EHu7vlYRuyuXOiFxfX7W87wqlLMvbjptyGVvpTam4TB8DCIER8VU1S8sWYrFRdPd0g3P+9xLo6+vF1OcvvkSUc2QxmURmZ6fl3HGxgPOzM1SrVVyVSkh/35COq/xGotFo27nLiwtMT331xio9RlmkUqm0navX716M3ZKWQVnkx/b2PznCGAMAOM6jajgP3UcoWoSiLJLJZpG13/bJfxcRIZ476Xujq4aiRSiBEfF1HsnaOQwMfMD4x3EAwGmxiFqthkajgWbzZe4vGKZUTOWqyezuIhwOw0gk8OfwEIwxTMbjLdf+zNvSMspbE+oKwUgkAACfJiYwGY+3/dlaMEw4jiMV11eOuE/qsmfnvcPP/u9fODg6AvDchYUQUjF9NTQqIrgAFxyRSL+XN4WTAur1W8x+m+mcSCcITPkGRkT3EYruIxTdRyiBKV8tQtEiFC1C0SKUwIg8AbiVyILjidnBAAAAAElFTkSuQmCC" />
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </mask>
+    <clipPath
+       id="clipPath30188-3"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         connector-curvature="0"
+         id="path30190-4"
+         gorn="0.4.0.0.284.0.0.0.0.0.0.20.0"
+         d="m 417.172,324.884 h 6.528 v -11.136 h -6.528 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath30266-0"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         connector-curvature="0"
+         id="path30268-6"
+         gorn="0.4.0.0.284.0.0.0.0.0.0.21.0"
+         d="m 374.306,327.671 h 2.8192 v -7.62718 h -2.8192 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath30414-8"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         connector-curvature="0"
+         id="path30416-4"
+         gorn="0.4.0.0.284.0.0.0.0.0.0.22.0"
+         d="m 367.119,355.505 h 1.3312 v -70.9864 h -1.3312 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath51274"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         connector-curvature="0"
+         id="path51272"
+         gorn="0.4.0.0.284.0.0.0.0.0.0.0.0"
+         d="m 402.931,330.705 h 0.8048 v -22.6576 h -0.8048 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath51278"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         connector-curvature="0"
+         id="path51276"
+         gorn="0.4.0.0.284.0.0.0.0.0.0.1.0"
+         d="m 397.068,330.705 h 0.8048 v -22.6576 h -0.8048 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath51282"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         connector-curvature="0"
+         id="path51280"
+         gorn="0.4.0.0.284.0.0.0.0.0.0.2.0"
+         d="m 391.207,330.705 h 0.8048 v -22.6576 h -0.8048 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath51286"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         connector-curvature="0"
+         id="path51284"
+         gorn="0.4.0.0.284.0.0.0.0.0.0.3.0"
+         d="m 386.722,314.65 h 22.6576 v -0.8048 H 386.722 Z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath51290"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         connector-curvature="0"
+         id="path51288"
+         gorn="0.4.0.0.284.0.0.0.0.0.0.4.0"
+         d="m 386.722,320.512 h 22.6576 v -0.8048 H 386.722 Z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath51294"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         connector-curvature="0"
+         id="path51292"
+         gorn="0.4.0.0.284.0.0.0.0.0.0.5.0"
+         d="m 386.722,326.374 h 22.6576 v -0.8048 H 386.722 Z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath51298"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         connector-curvature="0"
+         id="path51296"
+         gorn="0.4.0.0.284.0.0.0.0.0.0.6.0"
+         d="m 405.689,328.102 h 1.1504 v -1.1456 h -1.1504 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath51302"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         connector-curvature="0"
+         id="path51300"
+         gorn="0.4.0.0.284.0.0.0.0.0.0.7.0"
+         d="m 387.797,299.115 h 24.0136 v -2.2976 H 387.797 Z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath51306"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         connector-curvature="0"
+         id="path51304"
+         gorn="0.4.0.0.284.0.0.0.0.0.0.8.0"
+         d="m 416.979,335.18 h 4.5112 v -1.744 h -4.5112 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath51310"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         connector-curvature="0"
+         id="path51308"
+         gorn="0.4.0.0.284.0.0.0.0.0.0.9.0"
+         d="m 378.544,349.774 h 3.1992 v -8.27597 h -3.1992 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath51314"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         connector-curvature="0"
+         id="path51312"
+         gorn="0.4.0.0.284.0.0.0.0.0.0.10.0"
+         d="m 416.591,328.549 h 4.552 v -1.76 h -4.552 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath51318"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         connector-curvature="0"
+         id="path51316"
+         gorn="0.4.0.0.284.0.0.0.0.0.0.11.0"
+         d="m 379.056,301.877 h 4.552 v -1.76 h -4.552 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath51322"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         connector-curvature="0"
+         id="path51320"
+         gorn="0.4.0.0.284.0.0.0.0.0.0.12.0"
+         d="m 376.062,308.223 h 5.2896 v -2.0456 h -5.2896 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath51326"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         connector-curvature="0"
+         id="path51324"
+         gorn="0.4.0.0.284.0.0.0.0.0.0.13.0"
+         d="m 423.766,289.6 h 1.292 v -4.2432 h -1.292 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath51330"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         connector-curvature="0"
+         id="path51328"
+         gorn="0.4.0.0.284.0.0.0.0.0.0.14.0"
+         d="m 368.42,294.529 h 1.292 v -4.2432 h -1.292 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath51334"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         connector-curvature="0"
+         id="path51332"
+         gorn="0.4.0.0.284.0.0.0.0.0.0.15.0"
+         d="m 368.852,331.17 h 1.292 v -4.244 h -1.292 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath51338"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         connector-curvature="0"
+         id="path51336"
+         gorn="0.4.0.0.284.0.0.0.0.0.0.16.0"
+         d="m 374.413,312.352 h 4.5104 v -1.744 h -4.5104 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <mask
+       x="0"
+       height="1"
+       id="mask51366"
+       maskUnits="userSpaceOnUse"
+       width="1"
+       y="0">
+      <g
+         id="g51364"
+         gorn="0.4.0.0.284.0.0.0.0.0.0.17.0">
+        <g
+           id="g51362"
+           gorn="0.4.0.0.284.0.0.0.0.0.0.17.0.0"
+           clip-path="url(#clipPath30050)">
+          <g
+             id="g51360"
+             gorn="0.4.0.0.284.0.0.0.0.0.0.17.0.0.0">
+            <g
+               id="g51340"
+               gorn="0.4.0.0.284.0.0.0.0.0.0.17.0.0.0.0" />
+            <g
+               id="g51358"
+               gorn="0.4.0.0.284.0.0.0.0.0.0.17.0.0.0.1">
+              <g
+                 id="g51356"
+                 gorn="0.4.0.0.284.0.0.0.0.0.0.17.0.0.0.1.0"
+                 clip-path="url(#clipPath30054)">
+                <g
+                   id="g51354"
+                   gorn="0.4.0.0.284.0.0.0.0.0.0.17.0.0.0.1.0.0">
+                  <g
+                     transform="matrix(7.92,0,0,13.92,372.628,318.164)"
+                     id="g51352">
+                    <g
+                       id="g51350">
+                      <g
+                         id="g51348"
+                         gorn="0.4.0.0.284.0.0.0.0.0.0.17.0.0.0.1.0.0.0.0.0">
+                        <g
+                           transform="matrix(1,0,0,-1,0,0.799999)"
+                           id="g51346">
+                          <g
+                             id="g51344">
+                            <image
+                               height="1"
+                               preserveAspectRatio="none"
+                               id="image51342"
+                               width="1"
+                               href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAA6CAYAAAA+9TA3AAAABHNCSVQICAgIfAhkiAAAAjZJREFUWIXtl09P02Acx79tysbGdt8FlfZCueCLUMMugkb+RONFiAfDrGfDJAbi1RVPhOkLMDAYIcEXYcD7tnYGg9kOu3TGNtn2eHomSzftX+eS53Nqf3n69JPn6e/blpOu3yAYMvywBQAm8RsmQWESlP9CQnB7wfMXCkRRwkRiAslkEiuLS74lOD+J+fnLOcqlEgzDQNNoolrVob7NuZ7H9UpcRatotpV4srYKnuOR39v7NxKWZdlqH/LvAQBz6TQ+nZ6GLxGNRm01Lysxms8E7Y5YPIZyqTT87giK0QyrjKLgnar21F5ubODWndv4fnkJ86eJDumAEIKnq2vhSExem7TV3mxvQ56R8fjho25tN++8OwLbjkaj0XPebnfCk/h2cdG3rlUqPeeWaTqe0/V27ORUZBQFoigiEonAtEx8rVZt+aDrmuM5WYtSRlOieHKC/cPCX8dlFCU8CXlGhiRJeL219cdx/fJkEK674/zsDMsPFgF4e20HIlGv17vH9AOmn8ygPAlEolIu22pU5tn6OlKpFGq1GnZyqm3cIFhOUEZTguUEheUEheVEmHj6A5uaEjEeGwfP8+A4DhzHQRAEJBJJzN6cxY9mE8fFY2xms47mDHw7CsUjAMD9+QXH1/j6K78K7RA3Nw9UYi6d7naIF3xJDC2sAODjwQHGxgTcuzvv6+aeJbKbrzAtTyMej2P/sADDMNBqtUAIASEE7XYHlmlC1zXHgcXCisIkKEyCwiQoTILyC9uJ7rGHeCQyAAAAAElFTkSuQmCC" />
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </mask>
+    <clipPath
+       id="clipPath51370"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         connector-curvature="0"
+         id="path51368"
+         gorn="0.4.0.0.284.0.0.0.0.0.0.18.0"
+         d="m 374.306,327.671 h 2.8192 v -7.62797 h -2.8192 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <mask
+       x="0"
+       height="1"
+       id="mask51398"
+       maskUnits="userSpaceOnUse"
+       width="1"
+       y="0">
+      <g
+         id="g51396"
+         gorn="0.4.0.0.284.0.0.0.0.0.0.19.0">
+        <g
+           id="g51394"
+           gorn="0.4.0.0.284.0.0.0.0.0.0.19.0.0"
+           clip-path="url(#clipPath30188-3)">
+          <g
+             id="g51392"
+             gorn="0.4.0.0.284.0.0.0.0.0.0.19.0.0.0">
+            <g
+               id="g51372"
+               gorn="0.4.0.0.284.0.0.0.0.0.0.19.0.0.0.0" />
+            <g
+               id="g51390"
+               gorn="0.4.0.0.284.0.0.0.0.0.0.19.0.0.0.1">
+              <g
+                 id="g51388"
+                 gorn="0.4.0.0.284.0.0.0.0.0.0.19.0.0.0.1.0"
+                 clip-path="url(#clipPath30192)">
+                <g
+                   id="g51386"
+                   gorn="0.4.0.0.284.0.0.0.0.0.0.19.0.0.0.1.0.0">
+                  <g
+                     transform="matrix(8.16,0,0,13.92,417.172,313.748)"
+                     id="g51384">
+                    <g
+                       id="g51382">
+                      <g
+                         id="g51380"
+                         gorn="0.4.0.0.284.0.0.0.0.0.0.19.0.0.0.1.0.0.0.0.0">
+                        <g
+                           transform="matrix(1,0,0,-1,0,0.799999)"
+                           id="g51378">
+                          <g
+                             id="g51376">
+                            <image
+                               height="1"
+                               preserveAspectRatio="none"
+                               id="image51374"
+                               width="1"
+                               href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACIAAAA6CAYAAADVwos0AAAABHNCSVQICAgIfAhkiAAAAf1JREFUWIXtl8tO20AUhv+ZCQqXsKGbbLgEnoC+RhBdtaJCRQQbFijB8BoISrg0Io3DG6C2CN4CkbADQWARNllkFYJAEQ4LakucJmLGENWL+SQvxjM6+uw553jMxoZHmggA/H8LuGgRihahaBGKFqEoi6yur8FaWZZen7KszohEIv3Y3EhjzjRgzs+/un5waFAqbkhVxGXPzgMA5kwDnHHYuZzfUP5EHu7vlYRuyuXOiFxfX7W87wqlLMvbjptyGVvpTam4TB8DCIER8VU1S8sWYrFRdPd0g3P+9xLo6+vF1OcvvkSUc2QxmURmZ6fl3HGxgPOzM1SrVVyVSkh/35COq/xGotFo27nLiwtMT331xio9RlmkUqm0navX716M3ZKWQVnkx/b2PznCGAMAOM6jajgP3UcoWoSiLJLJZpG13/bJfxcRIZ476Xujq4aiRSiBEfF1HsnaOQwMfMD4x3EAwGmxiFqthkajgWbzZe4vGKZUTOWqyezuIhwOw0gk8OfwEIwxTMbjLdf+zNvSMspbE+oKwUgkAACfJiYwGY+3/dlaMEw4jiMV11eOuE/qsmfnvcPP/u9fODg6AvDchYUQUjF9NTQqIrgAFxyRSL+XN4WTAur1W8x+m+mcSCcITPkGRkT3EYruIxTdRyiBKV8tQtEiFC1C0SKUwIg8AbiVyILjidnBAAAAAElFTkSuQmCC" />
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </mask>
+    <clipPath
+       id="clipPath51402"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         connector-curvature="0"
+         id="path51400"
+         gorn="0.4.0.0.284.0.0.0.0.0.0.20.0"
+         d="m 417.172,324.884 h 6.528 v -11.136 h -6.528 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath51406"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         connector-curvature="0"
+         id="path51404"
+         gorn="0.4.0.0.284.0.0.0.0.0.0.21.0"
+         d="m 374.306,327.671 h 2.8192 v -7.62718 h -2.8192 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath51410"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         connector-curvature="0"
+         id="path51408"
+         gorn="0.4.0.0.284.0.0.0.0.0.0.22.0"
+         d="m 367.119,355.505 h 1.3312 v -70.9864 h -1.3312 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+  </defs>
+  <desc
+     id="desc6400">Fritzing breadboard generated by brd2svg</desc>
+  <g
+     id="g1371"
+     transform="translate(-1.26148,15.987501)">
+    <g
+       id="g1369">
+      <g
+         gorn="0.4.0.0.45.0.0"
+         id="g6826">
+        <title
+           id="title6828">element:JP1</title>
+        <g
+           gorn="0.4.0.0.45.0.0.1"
+           id="g6830">
+          <title
+             id="title6832">package:1X16_ROUND_MIN</title>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     id="g1379"
+     transform="translate(-1.26148,15.987501)">
+    <g
+       id="g1377">
+      <g
+         gorn="0.4.0.0.46.0.0"
+         id="g6834">
+        <title
+           id="title6836">element:JP3</title>
+        <g
+           gorn="0.4.0.0.46.0.0.1"
+           id="g6838">
+          <title
+             id="title6840">package:1X12_ROUND_MIN</title>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     id="g1507"
+     transform="translate(-1.26148,15.987501)">
+    <g
+       id="g1505">
+      <g
+         gorn="0.4.0.0.59.0.0"
+         id="g6986">
+        <title
+           id="title6988">element:U$7</title>
+        <g
+           gorn="0.4.0.0.59.0.0.1"
+           id="g6990">
+          <title
+             id="title6992">package:ADAFRUIT_5MM</title>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     id="g1515"
+     transform="translate(-1.26148,15.987501)">
+    <g
+       id="g1513">
+      <g
+         gorn="0.4.0.0.60.0.0"
+         id="g6994">
+        <title
+           id="title6996">element:U$9</title>
+        <g
+           gorn="0.4.0.0.60.0.0.1"
+           id="g6998">
+          <title
+             id="title7000">package:FEATHERLOGO_MED</title>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     id="g1523"
+     transform="translate(-1.26148,15.987501)">
+    <g
+       id="g1521">
+      <g
+         gorn="0.4.0.0.61.0.0"
+         id="g7002">
+        <title
+           id="title7004">element:U$13</title>
+        <g
+           gorn="0.4.0.0.61.0.0.1"
+           id="g7006">
+          <title
+             id="title7008">package:PCBFEAT-REV-040</title>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     id="g1531"
+     transform="translate(-1.26148,15.987501)">
+    <g
+       id="g1529">
+      <g
+         gorn="0.4.0.0.62.0.0"
+         id="g7010">
+        <title
+           id="title7012">element:U$14</title>
+        <g
+           gorn="0.4.0.0.62.0.0.1"
+           id="g7014">
+          <title
+             id="title7016">package:ADAFRUIT_2.5MM</title>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     id="g1539"
+     transform="translate(-1.26148,15.987501)">
+    <g
+       id="g1537">
+      <g
+         gorn="0.4.0.0.63.0.0"
+         id="g7018">
+        <title
+           id="title7020">element:U$15</title>
+        <g
+           gorn="0.4.0.0.63.0.0.1"
+           id="g7022">
+          <title
+             id="title7024">package:ADAFRUIT_3.5MM</title>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     id="g1548"
+     transform="translate(-1.26148,15.987501)" />
+  <g
+     id="g1565"
+     transform="translate(-1.26148,15.987501)">
+    <g
+       id="g1563">
+      <g
+         gorn="0.4.0.0.66.0.0"
+         id="g7046">
+        <title
+           id="title7048">element:U$34</title>
+        <g
+           gorn="0.4.0.0.66.0.0.1"
+           id="g7050">
+          <title
+             id="title7052">package:FIDUCIAL_1MM</title>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     id="g1573"
+     transform="translate(-1.26148,15.987501)">
+    <g
+       id="g1571">
+      <g
+         gorn="0.4.0.0.67.0.0"
+         id="g7054">
+        <title
+           id="title7056">element:U$35</title>
+        <g
+           gorn="0.4.0.0.67.0.0.1"
+           id="g7058">
+          <title
+             id="title7060">package:FIDUCIAL_1MM</title>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     id="g1581"
+     transform="translate(-1.26148,15.987501)">
+    <g
+       id="g1579">
+      <g
+         gorn="0.4.0.0.68.0.0"
+         id="g7062">
+        <title
+           id="title7064">element:U$43</title>
+        <g
+           gorn="0.4.0.0.68.0.0.1"
+           id="g7066">
+          <title
+             id="title7068">package:HUZZAH32</title>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     id="g1628"
+     transform="translate(-1.26148,15.987501)">
+    <g
+       id="g1626">
+      <g
+         gorn="0.4.0.0.72.0.0"
+         id="g7124">
+        <title
+           id="title7126">element:X2</title>
+        <g
+           gorn="0.4.0.0.72.0.0.1"
+           id="g7128">
+          <title
+             id="title7130">package:WROOM32_SKINNY</title>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     id="g2055"
+     transform="rotate(90,39.74011,36.710211)">
+    <g
+       id="g2053">
+      <g
+         gorn="0.4.0.0.193.0.0"
+         id="g7387" />
+    </g>
+  </g>
+  <g
+     id="g2061"
+     transform="rotate(90,39.74001,39.403111)">
+    <g
+       id="g2059">
+      <g
+         gorn="0.4.0.0.194.0.0"
+         id="g7390" />
+    </g>
+  </g>
+  <g
+     id="g2067"
+     transform="rotate(90,39.73996,42.095961)">
+    <g
+       id="g2065">
+      <g
+         gorn="0.4.0.0.195.0.0"
+         id="g7393" />
+    </g>
+  </g>
+  <g
+     id="g2073"
+     transform="rotate(90,47.110609,42.095911)">
+    <g
+       id="g2071">
+      <g
+         gorn="0.4.0.0.196.0.0"
+         id="g7396" />
+    </g>
+  </g>
+  <g
+     id="g2079"
+     transform="rotate(90,47.110709,36.71021)">
+    <g
+       id="g2077">
+      <g
+         gorn="0.4.0.0.197.0.0"
+         id="g7399" />
+    </g>
+  </g>
+  <g
+     id="g2087"
+     transform="rotate(-90,29.614961,14.45254)">
+    <g
+       id="g2085">
+      <g
+         gorn="0.4.0.0.200.0.0"
+         id="g7404" />
+    </g>
+  </g>
+  <g
+     id="g2093"
+     transform="rotate(-90,48.890561,14.45254)">
+    <g
+       id="g2091">
+      <g
+         gorn="0.4.0.0.201.0.0"
+         id="g7407" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Breadboard"
+     style="display:inline"
+     transform="translate(0,1.550108e-6)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Text"
+     transform="translate(0,1.550108e-6)">
+    <g
+       id="silkscreen">
+      <path
+         inkscape:connector-curvature="0"
+         id="rect24183"
+         d="M 1.5512723,1.5204411 V 79.454658 H 156.02078 V 1.5204411 Z M 150.09255,2.8388027 a 4.1933175,4.1933175 0 0 1 4.19385,4.193855 4.1933175,4.1933175 0 0 1 -4.19385,4.1938553 4.1933175,4.1933175 0 0 1 -4.19386,-4.1938553 4.1933175,4.1933175 0 0 1 4.19386,-4.193855 z M 4.9555751,3.2504246 A 1.222441,1.222441 0 0 1 6.1772569,4.4735713 1.222441,1.222441 0 0 1 4.9555751,5.6967179 1.222441,1.222441 0 0 1 3.7324284,4.4735713 1.222441,1.222441 0 0 1 4.9555751,3.2504246 Z m 7.1967899,0 a 1.222441,1.222441 0 0 1 1.223147,1.2231467 1.222441,1.222441 0 0 1 -1.223147,1.2231466 1.222441,1.222441 0 0 1 -1.221682,-1.2231466 1.222441,1.222441 0 0 1 1.221682,-1.2231467 z m 7.19679,0 a 1.222441,1.222441 0 0 1 1.223147,1.2231467 1.222441,1.222441 0 0 1 -1.223147,1.2231466 1.222441,1.222441 0 0 1 -1.221682,-1.2231466 1.222441,1.222441 0 0 1 1.221682,-1.2231467 z m 7.198255,0 A 1.222441,1.222441 0 0 1 27.769092,4.4735713 1.222441,1.222441 0 0 1 26.54741,5.6967179 1.222441,1.222441 0 0 1 25.324263,4.4735713 1.222441,1.222441 0 0 1 26.54741,3.2504246 Z m 7.19679,0 A 1.222441,1.222441 0 0 1 34.967347,4.4735713 1.222441,1.222441 0 0 1 33.7442,5.6967179 1.222441,1.222441 0 0 1 32.521053,4.4735713 1.222441,1.222441 0 0 1 33.7442,3.2504246 Z m 7.19679,0 A 1.222441,1.222441 0 0 1 42.164137,4.4735713 1.222441,1.222441 0 0 1 40.94099,5.6967179 1.222441,1.222441 0 0 1 39.719308,4.4735713 1.222441,1.222441 0 0 1 40.94099,3.2504246 Z m 7.198255,0 a 1.222441,1.222441 0 0 1 1.221682,1.2231467 1.222441,1.222441 0 0 1 -1.221682,1.2231466 1.222441,1.222441 0 0 1 -1.223146,-1.2231466 1.222441,1.222441 0 0 1 1.223146,-1.2231467 z m 7.19679,0 a 1.222441,1.222441 0 0 1 1.221682,1.2231467 1.222441,1.222441 0 0 1 -1.221682,1.2231466 1.222441,1.222441 0 0 1 -1.223147,-1.2231466 1.222441,1.222441 0 0 1 1.223147,-1.2231467 z m 7.19679,0 a 1.222441,1.222441 0 0 1 1.223146,1.2231467 1.222441,1.222441 0 0 1 -1.223146,1.2231466 1.222441,1.222441 0 0 1 -1.221682,-1.2231466 1.222441,1.222441 0 0 1 1.221682,-1.2231467 z m 7.19679,0 a 1.222441,1.222441 0 0 1 1.223147,1.2231467 1.222441,1.222441 0 0 1 -1.223147,1.2231466 1.222441,1.222441 0 0 1 -1.221682,-1.2231466 1.222441,1.222441 0 0 1 1.221682,-1.2231467 z m 7.198253,0 a 1.222441,1.222441 0 0 1 1.221685,1.2231467 1.222441,1.222441 0 0 1 -1.221685,1.2231466 1.222441,1.222441 0 0 1 -1.223147,-1.2231466 1.222441,1.222441 0 0 1 1.223147,-1.2231467 z m 7.196795,0 A 1.222441,1.222441 0 0 1 85.34781,4.4735713 1.222441,1.222441 0 0 1 84.124663,5.6967179 1.222441,1.222441 0 0 1 82.902978,4.4735713 1.222441,1.222441 0 0 1 84.124663,3.2504246 Z m 7.196788,0 a 1.222441,1.222441 0 0 1 1.223147,1.2231467 1.222441,1.222441 0 0 1 -1.223147,1.2231466 1.222441,1.222441 0 0 1 -1.221685,-1.2231466 1.222441,1.222441 0 0 1 1.221685,-1.2231467 z m 7.198257,0 a 1.222441,1.222441 0 0 1 1.221678,1.2231467 1.222441,1.222441 0 0 1 -1.221678,1.2231466 1.222441,1.222441 0 0 1 -1.223147,-1.2231466 1.222441,1.222441 0 0 1 1.223147,-1.2231467 z m 7.196792,0 a 1.222441,1.222441 0 0 1 1.22167,1.2231467 1.222441,1.222441 0 0 1 -1.22167,1.2231466 1.222441,1.222441 0 0 1 -1.22315,-1.2231466 1.222441,1.222441 0 0 1 1.22315,-1.2231467 z m 7.19678,0 a 1.222441,1.222441 0 0 1 1.22315,1.2231467 1.222441,1.222441 0 0 1 -1.22315,1.2231466 1.222441,1.222441 0 0 1 -1.22167,-1.2231466 1.222441,1.222441 0 0 1 1.22167,-1.2231467 z m 7.19826,0 a 1.222441,1.222441 0 0 1 1.22168,1.2231467 1.222441,1.222441 0 0 1 -1.22168,1.2231466 1.222441,1.222441 0 0 1 -1.22315,-1.2231466 1.222441,1.222441 0 0 1 1.22315,-1.2231467 z m 7.19679,0 a 1.222441,1.222441 0 0 1 1.22168,1.2231467 1.222441,1.222441 0 0 1 -1.22168,1.2231466 1.222441,1.222441 0 0 1 -1.22315,-1.2231466 1.222441,1.222441 0 0 1 1.22315,-1.2231467 z m 7.19679,0 a 1.222441,1.222441 0 0 1 1.22314,1.2231467 1.222441,1.222441 0 0 1 -1.22314,1.2231466 1.222441,1.222441 0 0 1 -1.22168,-1.2231466 1.222441,1.222441 0 0 1 1.22168,-1.2231467 z m 15.51125,66.8907424 a 4.251976,4.251976 0 0 1 4.25246,4.252449 4.251976,4.251976 0 0 1 -4.25246,4.25245 4.251976,4.251976 0 0 1 -4.25097,-4.25245 4.251976,4.251976 0 0 1 4.25097,-4.252449 z M 4.9585048,75.260808 a 1.222441,1.222441 0 0 1 1.2216819,1.221677 1.222441,1.222441 0 0 1 -1.2216819,1.223147 1.222441,1.222441 0 0 1 -1.2231466,-1.223147 1.222441,1.222441 0 0 1 1.2231466,-1.221677 z m 7.1982542,0 a 1.222441,1.222441 0 0 1 1.223148,1.221677 1.222441,1.222441 0 0 1 -1.223148,1.223147 1.222441,1.222441 0 0 1 -1.221681,-1.223147 1.222441,1.222441 0 0 1 1.221681,-1.221677 z m 7.198256,0 a 1.222441,1.222441 0 0 1 1.223146,1.221677 1.222441,1.222441 0 0 1 -1.223146,1.223147 1.222441,1.222441 0 0 1 -1.221683,-1.223147 1.222441,1.222441 0 0 1 1.221683,-1.221677 z m 7.199719,0 a 1.222441,1.222441 0 0 1 1.221682,1.221677 1.222441,1.222441 0 0 1 -1.221682,1.223147 1.222441,1.222441 0 0 1 -1.223146,-1.223147 1.222441,1.222441 0 0 1 1.223146,-1.221677 z m 7.198255,0 a 1.222441,1.222441 0 0 1 1.221682,1.221677 1.222441,1.222441 0 0 1 -1.221682,1.223147 1.222441,1.222441 0 0 1 -1.223146,-1.223147 1.222441,1.222441 0 0 1 1.223146,-1.221677 z m 7.198255,0 a 1.222441,1.222441 0 0 1 1.223147,1.221677 1.222441,1.222441 0 0 1 -1.223147,1.223147 1.222441,1.222441 0 0 1 -1.221682,-1.223147 1.222441,1.222441 0 0 1 1.221682,-1.221677 z m 7.198255,0 a 1.222441,1.222441 0 0 1 1.223146,1.221677 1.222441,1.222441 0 0 1 -1.223146,1.223147 1.222441,1.222441 0 0 1 -1.221682,-1.223147 1.222441,1.222441 0 0 1 1.221682,-1.221677 z m 7.199719,0 a 1.222441,1.222441 0 0 1 1.221682,1.221677 1.222441,1.222441 0 0 1 -1.221682,1.223147 1.222441,1.222441 0 0 1 -1.223146,-1.223147 1.222441,1.222441 0 0 1 1.223146,-1.221677 z m 7.198255,0 a 1.222441,1.222441 0 0 1 1.221682,1.221677 1.222441,1.222441 0 0 1 -1.221682,1.223147 1.222441,1.222441 0 0 1 -1.223146,-1.223147 1.222441,1.222441 0 0 1 1.223146,-1.221677 z m 7.198256,0 a 1.222441,1.222441 0 0 1 1.223146,1.221677 1.222441,1.222441 0 0 1 -1.223146,1.223147 1.222441,1.222441 0 0 1 -1.221683,-1.223147 1.222441,1.222441 0 0 1 1.221683,-1.221677 z m 7.198256,0 a 1.222441,1.222441 0 0 1 1.223148,1.221677 1.222441,1.222441 0 0 1 -1.223148,1.223147 1.222441,1.222441 0 0 1 -1.221684,-1.223147 1.222441,1.222441 0 0 1 1.221684,-1.221677 z m 7.199721,0 a 1.222441,1.222441 0 0 1 1.221677,1.221677 1.222441,1.222441 0 0 1 -1.221677,1.223147 1.222441,1.222441 0 0 1 -1.223148,-1.223147 1.222441,1.222441 0 0 1 1.223148,-1.221677 z m 7.19825,0 a 1.222441,1.222441 0 0 1 1.221684,1.221677 1.222441,1.222441 0 0 1 -1.221684,1.223147 1.222441,1.222441 0 0 1 -1.223147,-1.223147 1.222441,1.222441 0 0 1 1.223147,-1.221677 z m 7.198257,0 a 1.222441,1.222441 0 0 1 1.223148,1.221677 1.222441,1.222441 0 0 1 -1.223148,1.223147 1.222441,1.222441 0 0 1 -1.221684,-1.223147 1.222441,1.222441 0 0 1 1.221684,-1.221677 z m 7.198257,0 a 1.222441,1.222441 0 0 1 1.22314,1.221677 1.222441,1.222441 0 0 1 -1.22314,1.223147 1.222441,1.222441 0 0 1 -1.22168,-1.223147 1.222441,1.222441 0 0 1 1.22168,-1.221677 z m 7.19971,0 a 1.222441,1.222441 0 0 1 1.22169,1.221677 1.222441,1.222441 0 0 1 -1.22169,1.223147 1.222441,1.222441 0 0 1 -1.22314,-1.223147 1.222441,1.222441 0 0 1 1.22314,-1.221677 z m 7.19826,0 a 1.222441,1.222441 0 0 1 1.22169,1.221677 1.222441,1.222441 0 0 1 -1.22169,1.223147 1.222441,1.222441 0 0 1 -1.22315,-1.223147 1.222441,1.222441 0 0 1 1.22315,-1.221677 z m 7.19826,0 a 1.222441,1.222441 0 0 1 1.22315,1.221677 1.222441,1.222441 0 0 1 -1.22315,1.223147 1.222441,1.222441 0 0 1 -1.22315,-1.223147 1.222441,1.222441 0 0 1 1.22315,-1.221677 z m 7.19825,0 a 1.222441,1.222441 0 0 1 1.22315,1.221677 1.222441,1.222441 0 0 1 -1.22315,1.223147 1.222441,1.222441 0 0 1 -1.22168,-1.223147 1.222441,1.222441 0 0 1 1.22168,-1.221677 z"
+         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.08625014;stroke-miterlimit:1;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+      <g
+         id="g19442">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.00000525px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75000131"
+           x="3.1841512"
+           y="72.423927"
+           id="text10673"><tspan
+             sodipodi:role="line"
+             id="tspan10671"
+             x="3.1841512"
+             y="72.423927"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.00000525px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.75000131">5V</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.00000525px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75000131"
+           x="8.9144697"
+           y="72.454689"
+           id="text10673-6"><tspan
+             sodipodi:role="line"
+             id="tspan10693"
+             x="8.9144697"
+             y="72.454689">CMD</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.00000525px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75000131"
+           x="16.851875"
+           y="72.454689"
+           id="text10673-6-0"><tspan
+             sodipodi:role="line"
+             id="tspan10713"
+             x="16.851875"
+             y="72.454689">SD3</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.00000525px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75000131"
+           x="23.913239"
+           y="72.454689"
+           id="text10673-6-0-4"><tspan
+             sodipodi:role="line"
+             id="tspan10733"
+             x="23.913239"
+             y="72.454689">SD2</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.78320503px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.69580263"
+           x="33.353161"
+           y="67.221481"
+           id="text10673-6-0-4-2"
+           transform="scale(0.92773527,1.0778937)"><tspan
+             sodipodi:role="line"
+             id="tspan15299"
+             x="33.353161"
+             y="67.221481"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.78320503px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.69580263">IO13</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.78320479px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.69580263"
+           x="40.908577"
+           y="67.218765"
+           id="text10673-6-0-4-2-8"
+           transform="scale(0.92773527,1.0778937)"><tspan
+             sodipodi:role="line"
+             id="tspan15319"
+             x="40.908577"
+             y="67.218765">GND</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.78320479px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.69580263"
+           x="48.685505"
+           y="67.221481"
+           id="text10673-6-0-4-2-8-7"
+           transform="scale(0.92773527,1.0778937)"><tspan
+             sodipodi:role="line"
+             id="tspan15343"
+             x="48.685505"
+             y="67.221481">IO12</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.78320479px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.69580263"
+           x="56.539482"
+           y="67.221481"
+           id="text10673-6-0-4-2-8-7-8"
+           transform="scale(0.92773527,1.0778937)"><tspan
+             sodipodi:role="line"
+             id="tspan15363"
+             x="56.539482"
+             y="67.221481">IO14</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.78320479px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.69580263"
+           x="64.347656"
+           y="67.221481"
+           id="text10673-6-0-4-2-8-7-8-4"
+           transform="scale(0.92773527,1.0778937)"><tspan
+             sodipodi:role="line"
+             id="tspan15383"
+             x="64.347656"
+             y="67.221481">IO27</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.78320479px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.69580263"
+           x="72.092949"
+           y="67.221481"
+           id="text10673-6-0-4-2-8-7-8-4-6"
+           transform="scale(0.92773527,1.0778937)"><tspan
+             sodipodi:role="line"
+             id="tspan15403"
+             x="72.092949"
+             y="67.221481">IO26</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.78320479px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.69580263"
+           x="79.894287"
+           y="67.221481"
+           id="text10673-6-0-4-2-8-7-8-4-6-1"
+           transform="scale(0.92773527,1.0778937)"><tspan
+             sodipodi:role="line"
+             id="tspan15423"
+             x="79.894287"
+             y="67.221481">IO25</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.78320479px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.69580263"
+           x="87.672768"
+           y="67.221481"
+           id="text10673-6-0-4-2-8-7-8-4-6-1-6"
+           transform="scale(0.92773527,1.0778937)"><tspan
+             sodipodi:role="line"
+             id="tspan15443"
+             x="87.672768"
+             y="67.221481">IO33</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.78320479px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.69580263"
+           x="95.448036"
+           y="67.221481"
+           id="text10673-6-0-4-2-8-7-8-4-6-1-6-2"
+           transform="scale(0.92773527,1.0778937)"><tspan
+             sodipodi:role="line"
+             id="tspan15463"
+             x="95.448036"
+             y="67.221481">IO32</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.78320479px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.69580263"
+           x="103.37042"
+           y="67.221481"
+           id="text10673-6-0-4-2-8-7-8-4-6-1-6-2-2"
+           transform="scale(0.92773527,1.0778937)"><tspan
+             sodipodi:role="line"
+             id="tspan15493"
+             x="103.37042"
+             y="67.221481">IO35</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.78320479px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.69580263"
+           x="111.16563"
+           y="67.221481"
+           id="text10673-6-0-4-2-8-7-8-4-6-1-6-2-2-0"
+           transform="scale(0.92773527,1.0778937)"><tspan
+             sodipodi:role="line"
+             id="tspan15531"
+             x="111.16563"
+             y="67.221481">IO34</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.78320479px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.69580263"
+           x="119.50876"
+           y="67.218765"
+           id="text10673-6-0-4-2-8-7-8-4-6-1-6-2-2-0-6"
+           transform="scale(0.92773527,1.0778937)"><tspan
+             sodipodi:role="line"
+             id="tspan15551"
+             x="119.50876"
+             y="67.218765">SVN</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.78320479px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.69580263"
+           x="127.3437"
+           y="67.218765"
+           id="text10673-6-0-4-2-8-7-8-4-6-1-6-2-2-0-6-9"
+           transform="scale(0.92773527,1.0778937)"><tspan
+             sodipodi:role="line"
+             id="tspan15571"
+             x="127.3437"
+             y="67.218765">SVP</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.78320479px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.69580263"
+           x="134.78796"
+           y="67.218765"
+           id="text10673-6-0-4-2-8-7-8-4-6-1-6-2-2-0-6-9-1"
+           transform="scale(0.92773527,1.0778937)"><tspan
+             sodipodi:role="line"
+             id="tspan15591"
+             x="134.78796"
+             y="67.218765">RST</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.78320479px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.69580263"
+           x="142.84123"
+           y="67.218765"
+           id="text10673-6-0-4-2-8-7-8-4-6-1-6-2-2-0-6-9-1-1"
+           transform="scale(0.92773527,1.0778937)"><tspan
+             sodipodi:role="line"
+             id="tspan15611"
+             x="142.84123"
+             y="67.218765">3V3</tspan></text>
+      </g>
+      <g
+         style="fill:#000000;fill-opacity:1"
+         transform="translate(0.51879083,-61.476714)"
+         id="g19272">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.00000525px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75000131"
+           x="-7.4857349"
+           y="-69.630157"
+           id="text10673-5"
+           transform="scale(-1)"><tspan
+             sodipodi:role="line"
+             id="tspan15868"
+             x="-7.4857349"
+             y="-69.630157">SCK</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.00000525px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75000131"
+           x="-14.346441"
+           y="-69.630165"
+           id="text10673-6-7"
+           transform="scale(-1)"><tspan
+             sodipodi:role="line"
+             id="tspan15870"
+             x="-14.346441"
+             y="-69.630165">SD0</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.00000525px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75000131"
+           x="-21.536446"
+           y="-69.630157"
+           id="text10673-6-0-2"
+           transform="scale(-1)"><tspan
+             sodipodi:role="line"
+             id="tspan17699"
+             x="-21.536446"
+             y="-69.630157">SD1</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.00000525px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75000131"
+           x="-29.501587"
+           y="-69.630157"
+           id="text10673-6-0-4-7"
+           transform="scale(-1)"><tspan
+             sodipodi:role="line"
+             id="tspan15872"
+             x="-29.501587"
+             y="-69.630157">IO15</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.78320479px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.69580263"
+           x="-38.565586"
+           y="-64.598366"
+           id="text10673-6-0-4-2-7"
+           transform="scale(-0.92773527,-1.0778937)"><tspan
+             sodipodi:role="line"
+             id="tspan15874"
+             x="-38.565586"
+             y="-64.598366">IO2</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.78320479px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.69580263"
+           x="-45.932007"
+           y="-64.598366"
+           id="text10673-6-0-4-2-8-9"
+           transform="scale(-0.92773527,-1.0778937)"><tspan
+             sodipodi:role="line"
+             id="tspan15876"
+             x="-45.932007"
+             y="-64.598366">IO0</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.78320479px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.69580263"
+           x="-53.998539"
+           y="-64.598366"
+           id="text10673-6-0-4-2-8-7-6"
+           transform="scale(-0.92773527,-1.0778937)"><tspan
+             sodipodi:role="line"
+             id="tspan15878"
+             x="-53.998539"
+             y="-64.598366">IO4</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.78320479px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.69580263"
+           x="-62.335323"
+           y="-64.598358"
+           id="text10673-6-0-4-2-8-7-8-9"
+           transform="scale(-0.92773527,-1.0778937)"><tspan
+             sodipodi:role="line"
+             id="tspan15880"
+             x="-62.335323"
+             y="-64.598358">IO16</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.78320479px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.69580263"
+           x="-70.241425"
+           y="-64.598366"
+           id="text10673-6-0-4-2-8-7-8-4-65"
+           transform="scale(-0.92773527,-1.0778937)"><tspan
+             sodipodi:role="line"
+             id="tspan15882"
+             x="-70.241425"
+             y="-64.598366">IO17</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.78320479px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.69580263"
+           x="-77.109451"
+           y="-64.598358"
+           id="text10673-6-0-4-2-8-7-8-4-6-3"
+           transform="scale(-0.92773527,-1.0778937)"><tspan
+             sodipodi:role="line"
+             id="tspan15884"
+             x="-77.109451"
+             y="-64.598358">IO5</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.78320479px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.69580263"
+           x="-85.562286"
+           y="-64.598366"
+           id="text10673-6-0-4-2-8-7-8-4-6-1-3"
+           transform="scale(-0.92773527,-1.0778937)"><tspan
+             sodipodi:role="line"
+             id="tspan15888"
+             x="-85.562286"
+             y="-64.598366">IO18</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.78320479px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.69580263"
+           x="-93.524368"
+           y="-64.598366"
+           id="text10673-6-0-4-2-8-7-8-4-6-1-6-9"
+           transform="scale(-0.92773527,-1.0778937)"><tspan
+             sodipodi:role="line"
+             id="tspan15890"
+             x="-93.524368"
+             y="-64.598366">IO19</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.78320479px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.69580263"
+           x="-101.29556"
+           y="-64.598366"
+           id="text10673-6-0-4-2-8-7-8-4-6-1-6-2-9"
+           transform="scale(-0.92773527,-1.0778937)"><tspan
+             sodipodi:role="line"
+             id="tspan15892"
+             x="-101.29556"
+             y="-64.598366">GND</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.78320479px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.69580263"
+           x="-108.88747"
+           y="-64.598366"
+           id="text10673-6-0-4-2-8-7-8-4-6-1-6-2-2-5"
+           transform="scale(-0.92773527,-1.0778937)"><tspan
+             sodipodi:role="line"
+             id="tspan15894"
+             x="-108.88747"
+             y="-64.598366">IO21</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.78320479px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.69580263"
+           x="-116.39292"
+           y="-64.598358"
+           id="text10673-6-0-4-2-8-7-8-4-6-1-6-2-2-0-7"
+           transform="scale(-0.92773527,-1.0778937)"><tspan
+             sodipodi:role="line"
+             id="tspan15896"
+             x="-116.39292"
+             y="-64.598358">RXD</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.78320479px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.69580263"
+           x="-123.82839"
+           y="-64.598366"
+           id="text10673-6-0-4-2-8-7-8-4-6-1-6-2-2-0-6-1"
+           transform="scale(-0.92773527,-1.0778937)"><tspan
+             sodipodi:role="line"
+             id="tspan15898"
+             x="-123.82839"
+             y="-64.598366">TXD</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.78320479px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.69580263"
+           x="-132.11113"
+           y="-64.598366"
+           id="text10673-6-0-4-2-8-7-8-4-6-1-6-2-2-0-6-9-5"
+           transform="scale(-0.92773527,-1.0778937)"><tspan
+             sodipodi:role="line"
+             id="tspan15900"
+             x="-132.11113"
+             y="-64.598366">IO22</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.78320479px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.69580263"
+           x="-139.94836"
+           y="-64.598366"
+           id="text10673-6-0-4-2-8-7-8-4-6-1-6-2-2-0-6-9-1-8"
+           transform="scale(-0.92773527,-1.0778937)"><tspan
+             sodipodi:role="line"
+             id="tspan15902"
+             x="-139.94836"
+             y="-64.598366">IO23</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.78320479px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.69580263"
+           x="-147.90627"
+           y="-64.598366"
+           id="text10673-6-0-4-2-8-7-8-4-6-1-6-2-2-0-6-9-1-1-0"
+           transform="scale(-0.92773527,-1.0778937)"><tspan
+             sodipodi:role="line"
+             id="tspan15904"
+             x="-147.90627"
+             y="-64.598366">GND</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Copper"
+     transform="translate(0,1.550108e-6)">
+    <g
+       id="copper0">
+      <g
+         transform="translate(-0.53976468,-1.0602206)"
+         id="g67927"
+         style="display:inline">
+        <g
+           id="g37966"
+           transform="translate(-12.543642,-55.659872)">
+          <circle
+             id="connector4pin"
+             cx="126.02852"
+             gorn="0.4.0.0.121"
+             r="1.7538"
+             connectorname="IO21"
+             cy="61.199959"
+             style="fill:none;stroke:#9a916c;stroke-width:0.95641202" />
+          <circle
+             id="connector5pin"
+             cx="118.82851"
+             gorn="0.4.0.0.122"
+             r="1.7538"
+             connectorname="IO17"
+             cy="61.199959"
+             style="fill:none;stroke:#9a916c;stroke-width:0.95641202" />
+          <circle
+             id="connector6pin"
+             cx="111.62852"
+             gorn="0.4.0.0.123"
+             r="1.7538"
+             connectorname="IO16"
+             cy="61.199959"
+             style="fill:none;stroke:#9a916c;stroke-width:0.95641202" />
+          <circle
+             id="connector7pin"
+             cx="104.42851"
+             gorn="0.4.0.0.124"
+             r="1.7538"
+             connectorname="MISO"
+             cy="61.199959"
+             style="fill:none;stroke:#9a916c;stroke-width:0.95641202" />
+          <circle
+             id="connector8pin"
+             cx="97.22802"
+             gorn="0.4.0.0.125"
+             r="1.7538"
+             connectorname="MOSI"
+             cy="61.199959"
+             style="fill:none;stroke:#9a916c;stroke-width:0.95641202" />
+          <circle
+             id="connector9pin"
+             cx="90.028015"
+             gorn="0.4.0.0.126"
+             r="1.7538"
+             connectorname="SCK"
+             cy="61.199959"
+             style="fill:none;stroke:#9a916c;stroke-width:0.95641202" />
+          <circle
+             id="connector10pin"
+             cx="82.828018"
+             gorn="0.4.0.0.127"
+             r="1.7538"
+             connectorname="A5_IO4"
+             cy="61.199959"
+             style="fill:none;stroke:#9a916c;stroke-width:0.95641202" />
+          <circle
+             id="connector11pin"
+             cx="75.628021"
+             gorn="0.4.0.0.128"
+             r="1.7538"
+             connectorname="A4_IO36"
+             cy="61.199959"
+             style="fill:none;stroke:#9a916c;stroke-width:0.95641202" />
+          <circle
+             id="connector12pin"
+             cx="68.428215"
+             gorn="0.4.0.0.129"
+             r="1.7538"
+             connectorname="A3_I39"
+             cy="61.199959"
+             style="fill:none;stroke:#9a916c;stroke-width:0.95641202" />
+          <circle
+             id="connector13pin"
+             cx="61.228222"
+             gorn="0.4.0.0.130"
+             r="1.7538"
+             connectorname="A2_I34"
+             cy="61.199959"
+             style="fill:none;stroke:#9a916c;stroke-width:0.95641202" />
+          <circle
+             id="connector14pin"
+             cx="54.028221"
+             gorn="0.4.0.0.131"
+             r="1.7538"
+             connectorname="A1_DAC1"
+             cy="61.199959"
+             style="fill:none;stroke:#9a916c;stroke-width:0.95641202" />
+          <circle
+             id="connector15pin"
+             cx="46.82822"
+             gorn="0.4.0.0.132"
+             r="1.7538"
+             connectorname="A0_DAC2"
+             cy="61.199959"
+             style="fill:none;stroke:#9a916c;stroke-width:0.95641202" />
+          <circle
+             id="connector16pin"
+             cx="39.62822"
+             gorn="0.4.0.0.133"
+             r="1.7538"
+             connectorname="GND"
+             cy="61.199959"
+             style="fill:none;stroke:#9a916c;stroke-width:0.95641202" />
+          <circle
+             inkscape:label="#connector17pin"
+             id="connector58pin"
+             cx="32.428219"
+             gorn="0.4.0.0.134"
+             r="1.7538"
+             connectorname="14"
+             cy="61.199959"
+             style="fill:none;stroke:#9a916c;stroke-width:0.95641202" />
+          <circle
+             inkscape:label="#connector18pin"
+             id="connector17pin"
+             cx="25.22822"
+             gorn="0.4.0.0.135"
+             r="1.7538"
+             connectorname="3.3V"
+             cy="61.199959"
+             style="fill:none;stroke:#9a916c;stroke-width:0.95641202" />
+          <circle
+             inkscape:label="#connector19pin"
+             id="connector18pin"
+             cx="18.028219"
+             gorn="0.4.0.0.136"
+             r="1.7538"
+             connectorname="RESET"
+             cy="61.199959"
+             style="fill:none;stroke:#9a916c;stroke-width:0.95641202" />
+        </g>
+        <circle
+           id="connector1pin"
+           cx="135.03792"
+           gorn="0.4.0.0.126"
+           r="1.7538002"
+           connectorname="SCK"
+           cy="5.5400867"
+           style="fill:none;stroke:#9a916c;stroke-width:0.95641208" />
+        <circle
+           id="connector2pin"
+           cx="127.84573"
+           gorn="0.4.0.0.127"
+           r="1.7538002"
+           connectorname="A5_IO4"
+           cy="5.5400867"
+           style="fill:none;stroke:#9a916c;stroke-width:0.95641208" />
+        <circle
+           id="connector3pin"
+           cx="120.6535"
+           gorn="0.4.0.0.128"
+           r="1.7538002"
+           connectorname="A4_IO36"
+           cy="5.5400867"
+           style="fill:none;stroke:#9a916c;stroke-width:0.95641208" />
+      </g>
+      <g
+         transform="translate(-13.058036,15.295863)"
+         id="g37966-7">
+        <circle
+           inkscape:label="#connector35pin"
+           style="fill:none;stroke:#9a916c;stroke-width:0.95641202"
+           cy="61.199959"
+           connectorname="IO21"
+           r="1.7538"
+           gorn="0.4.0.0.121"
+           cx="126.02852"
+           id="connector34pin" />
+        <circle
+           inkscape:label="#connector34pin"
+           style="fill:none;stroke:#9a916c;stroke-width:0.95641202"
+           cy="61.199959"
+           connectorname="IO17"
+           r="1.7538"
+           gorn="0.4.0.0.122"
+           cx="118.82851"
+           id="connector34in" />
+        <circle
+           inkscape:label="#connector33pin"
+           style="fill:none;stroke:#9a916c;stroke-width:0.95641202"
+           cy="61.199959"
+           connectorname="IO16"
+           r="1.7538"
+           gorn="0.4.0.0.123"
+           cx="111.62852"
+           id="connector32pin" />
+        <circle
+           inkscape:label="#connector32pin"
+           style="fill:none;stroke:#9a916c;stroke-width:0.95641202"
+           cy="61.199959"
+           connectorname="MISO"
+           r="1.7538"
+           gorn="0.4.0.0.124"
+           cx="104.42851"
+           id="connector31pin" />
+        <circle
+           inkscape:label="#connector31pin"
+           style="fill:none;stroke:#9a916c;stroke-width:0.95641202"
+           cy="61.199959"
+           connectorname="MOSI"
+           r="1.7538"
+           gorn="0.4.0.0.125"
+           cx="97.22802"
+           id="connector30pin" />
+        <circle
+           inkscape:label="#connector30pin"
+           style="fill:none;stroke:#9a916c;stroke-width:0.95641202"
+           cy="61.199959"
+           connectorname="SCK"
+           r="1.7538"
+           gorn="0.4.0.0.126"
+           cx="90.028015"
+           id="connector29pin" />
+        <circle
+           inkscape:label="#connector29pin"
+           style="fill:none;stroke:#9a916c;stroke-width:0.95641202"
+           cy="61.199959"
+           connectorname="A5_IO4"
+           r="1.7538"
+           gorn="0.4.0.0.127"
+           cx="82.828018"
+           id="connector28pin" />
+        <circle
+           inkscape:label="#connector28pin"
+           style="fill:none;stroke:#9a916c;stroke-width:0.95641202"
+           cy="61.199959"
+           connectorname="A4_IO36"
+           r="1.7538"
+           gorn="0.4.0.0.128"
+           cx="75.628021"
+           id="connector27pin" />
+        <circle
+           inkscape:label="#connector27pin"
+           style="fill:none;stroke:#9a916c;stroke-width:0.95641202"
+           cy="61.199959"
+           connectorname="A3_I39"
+           r="1.7538"
+           gorn="0.4.0.0.129"
+           cx="68.428215"
+           id="connector26pin" />
+        <circle
+           inkscape:label="#connector26pin"
+           style="fill:none;stroke:#9a916c;stroke-width:0.95641202"
+           cy="61.199959"
+           connectorname="A2_I34"
+           r="1.7538"
+           gorn="0.4.0.0.130"
+           cx="61.228222"
+           id="connector25pin" />
+        <circle
+           inkscape:label="#connector25pin"
+           style="fill:none;stroke:#9a916c;stroke-width:0.95641202"
+           cy="61.199959"
+           connectorname="A1_DAC1"
+           r="1.7538"
+           gorn="0.4.0.0.131"
+           cx="54.028221"
+           id="connector24pin" />
+        <circle
+           inkscape:label="#connector24pin"
+           style="fill:none;stroke:#9a916c;stroke-width:0.95641202"
+           cy="61.199959"
+           connectorname="A0_DAC2"
+           r="1.7538"
+           gorn="0.4.0.0.132"
+           cx="46.82822"
+           id="connector23pin" />
+        <circle
+           inkscape:label="#connector23pin"
+           style="fill:none;stroke:#9a916c;stroke-width:0.95641202"
+           cy="61.199959"
+           connectorname="GND"
+           r="1.7538"
+           gorn="0.4.0.0.133"
+           cx="39.62822"
+           id="connector22pin" />
+        <circle
+           inkscape:label="#connector22pin"
+           style="fill:none;stroke:#9a916c;stroke-width:0.95641202"
+           cy="61.199959"
+           connectorname="14"
+           r="1.7538"
+           gorn="0.4.0.0.134"
+           cx="32.428219"
+           id="connector21pin" />
+        <circle
+           inkscape:label="#connector21pin"
+           style="fill:none;stroke:#9a916c;stroke-width:0.95641202"
+           cy="61.199959"
+           connectorname="3.3V"
+           r="1.7538"
+           gorn="0.4.0.0.135"
+           cx="25.22822"
+           id="connector20pin" />
+        <circle
+           inkscape:label="#connector20pin"
+           style="fill:none;stroke:#9a916c;stroke-width:0.95641202"
+           cy="61.199959"
+           connectorname="RESET"
+           r="1.7538"
+           gorn="0.4.0.0.136"
+           cx="18.028219"
+           id="connector19pin" />
+      </g>
+      <circle
+         style="fill:none;stroke:#9a916c;stroke-width:0.95641208"
+         cy="76.495819"
+         connectorname="SCK"
+         r="1.7538002"
+         gorn="0.4.0.0.126"
+         cx="134.52353"
+         id="connector38pin" />
+      <circle
+         inkscape:label="#connector37pin"
+         style="fill:none;stroke:#9a916c;stroke-width:0.95641208"
+         cy="76.495819"
+         connectorname="A5_IO4"
+         r="1.7538002"
+         gorn="0.4.0.0.127"
+         cx="127.33134"
+         id="connector37in" />
+      <circle
+         inkscape:label="#connector36pin"
+         style="fill:none;stroke:#9a916c;stroke-width:0.95641208"
+         cy="76.495819"
+         connectorname="A4_IO36"
+         r="1.7538002"
+         gorn="0.4.0.0.128"
+         cx="120.13911"
+         id="connector35pin" />
+    </g>
+  </g>
+</svg>

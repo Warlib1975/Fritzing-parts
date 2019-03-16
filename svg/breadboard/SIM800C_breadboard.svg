@@ -27,7 +27,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.15596"
-     inkscape:cx="14.116354"
+     inkscape:cx="-18.176371"
      inkscape:cy="65.63583"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -89,7 +89,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -197,30 +197,6 @@
          id="rect870-31-2"
          style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.16500001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
     </g>
-    <rect
-       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.15797548;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-       id="rect928"
-       width="4.2361412"
-       height="0.71688515"
-       x="-270.70523"
-       y="19.58473"
-       transform="rotate(-90)" />
-    <rect
-       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.1506259;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-       id="rect928-7"
-       width="4.2361412"
-       height="0.65173286"
-       x="-270.70523"
-       y="11.536119"
-       transform="rotate(-90)" />
-    <rect
-       style="opacity:1;fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:0.15762323;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-       id="rect926"
-       width="4.2361364"
-       height="7.4402304"
-       x="-270.70242"
-       y="12.144518"
-       transform="rotate(-90)" />
     <g
        id="g971"
        transform="rotate(-90,13.328894,283.60783)">
@@ -328,31 +304,34 @@
       </g>
     </g>
     <g
-       transform="matrix(-0.71647694,0.00591865,0.00152509,-0.66662647,28.979679,455.4947)"
-       id="g971-3-2-6-2">
+       id="g2487">
       <g
-         id="g1024-4-0">
-        <rect
-           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16500001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-           id="rect945-3-9-7-1"
-           width="1.4989405"
-           height="1.2708409"
-           x="22.712208"
-           y="271.38766" />
-        <rect
-           style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.16500001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-           id="rect951-2-1-0-2"
-           width="1.1404991"
-           height="1.2382507"
-           x="21.571709"
-           y="271.42026" />
-        <rect
-           style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.16500001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-           id="rect951-5-1-3-5-7"
-           width="1.1404991"
-           height="1.2382507"
-           x="24.211147"
-           y="271.38766" />
+         id="g971-3-2-6-2"
+         transform="matrix(-0.71647694,0.00591865,0.00152509,-0.66662647,28.979679,455.4947)">
+        <g
+           id="g1024-4-0">
+          <rect
+             y="271.38766"
+             x="22.712208"
+             height="1.2708409"
+             width="1.4989405"
+             id="rect945-3-9-7-1"
+             style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16500001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+          <rect
+             y="271.42026"
+             x="21.571709"
+             height="1.2382507"
+             width="1.1404991"
+             id="rect951-2-1-0-2"
+             style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.16500001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+          <rect
+             y="271.38766"
+             x="24.211147"
+             height="1.2382507"
+             width="1.1404991"
+             id="rect951-5-1-3-5-7"
+             style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.16500001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+        </g>
       </g>
     </g>
     <g
@@ -444,27 +423,30 @@
        id="g971-3-2-6-2-8">
       <g
          id="g1024-4-0-3">
-        <rect
-           style="opacity:1;fill:#ececec;fill-opacity:1;stroke:none;stroke-width:0.16500001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-           id="rect945-3-9-7-1-9"
-           width="1.4989405"
-           height="1.2708409"
-           x="22.712208"
-           y="271.38766" />
-        <rect
-           style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.16500001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-           id="rect951-2-1-0-2-0"
-           width="1.1404991"
-           height="1.2382507"
-           x="21.571709"
-           y="271.42026" />
-        <rect
-           style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.16500001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-           id="rect951-5-1-3-5-7-7"
-           width="1.1404991"
-           height="1.2382507"
-           x="24.211147"
-           y="271.38766" />
+        <g
+           id="g2522">
+          <rect
+             y="271.38766"
+             x="22.712208"
+             height="1.2708409"
+             width="1.4989405"
+             id="rect945-3-9-7-1-9"
+             style="opacity:1;fill:#ececec;fill-opacity:1;stroke:none;stroke-width:0.16500001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+          <rect
+             y="271.42026"
+             x="21.571709"
+             height="1.2382507"
+             width="1.1404991"
+             id="rect951-2-1-0-2-0"
+             style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.16500001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+          <rect
+             y="271.38766"
+             x="24.211147"
+             height="1.2382507"
+             width="1.1404991"
+             id="rect951-5-1-3-5-7-7"
+             style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.16500001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+        </g>
       </g>
     </g>
     <g
@@ -1433,14 +1415,44 @@
        x="-296.72824"
        y="0.52281195"
        transform="rotate(-90)" />
-    <rect
-       style="opacity:1;fill:#a05a2c;fill-opacity:1;stroke:none;stroke-width:0.16500001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-       id="rect2198"
-       width="4.2682481"
-       height="0.38452688"
-       x="-270.71683"
-       y="12.761736"
-       transform="rotate(-90)" />
+    <g
+       id="g2450">
+      <g
+         id="g2419">
+        <rect
+           style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.15797548;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           id="rect928"
+           width="4.2361412"
+           height="0.71688515"
+           x="-270.70523"
+           y="19.58473"
+           transform="rotate(-90)" />
+        <rect
+           style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.1506259;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           id="rect928-7"
+           width="4.2361412"
+           height="0.65173286"
+           x="-270.70523"
+           y="11.536119"
+           transform="rotate(-90)" />
+        <rect
+           style="opacity:1;fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:0.15762323;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           id="rect926"
+           width="4.2361364"
+           height="7.4402304"
+           x="-270.70242"
+           y="12.144518"
+           transform="rotate(-90)" />
+      </g>
+      <rect
+         transform="rotate(-90)"
+         y="12.761736"
+         x="-270.71683"
+         height="0.38452688"
+         width="4.2682481"
+         id="rect2198"
+         style="opacity:1;fill:#a05a2c;fill-opacity:1;stroke:none;stroke-width:0.16500001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+    </g>
     <g
        aria-label="POWER"
        transform="rotate(-0.875783,19310.125,17809.235)"
