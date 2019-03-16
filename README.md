@@ -14,3 +14,5 @@ Third parties fritzing parts (links to orig resources)
 2. [ESP32 chip](https://github.com/troelssiggaard/ESP32-fritzing-module)
 3. [LuaNode32_ESP32_30pins](https://github.com/TD-er/fritzing-parts/tree/master/LuaNode32_ESP32)
 4. [NodeMCU_ESP8266](https://github.com/TD-er/fritzing-parts/tree/master/nodemcu-v1.0)
+5. [ADS1115 (blue board)](https://github.com/adafruit/Fritzing-Library/blob/master/parts/Adafruit%20ADS1115%2016Bit%20I2C%20ADC.fzpz)
+
