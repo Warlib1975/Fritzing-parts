@@ -8,7 +8,7 @@ My fritzing parts
 4. XY-ItoV                      - http://www.bizkit.ru/2019/03/04/12742/ - Current 4..20 mA to voltage board
 5. SIM800L                      - 2G GSM board SIM800L.
 
-Third parties fritzing parts
+Third parties fritzing parts (links to orig resources)
 1. MAX31855                     - https://github.com/SV-Zanshin/MAX31855/tree/master/Fritzing
 2. ESP32 chip                   - https://github.com/troelssiggaard/ESP32-fritzing-module
 3. LuaNode32_ESP32              - https://github.com/TD-er/fritzing-parts/tree/master/LuaNode32_ESP32
