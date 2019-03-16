@@ -7,7 +7,7 @@ My fritzing parts
 3. RS485 (XY-017 board)         - http://www.bizkit.ru/2019/01/23/11734/ - RS485 interface board 
 4. XY-ItoV                      - http://www.bizkit.ru/2019/03/04/12742/ - Current 4..20 mA to voltage board
 5. SIM800L                      - 2G GSM board SIM800L.
-6. MH-ET Live ESP32 Devkit      - MH-ET Live ESP32 Devkit 38 pins. Buy [a link](http://ali.pub/37cnuh)
+6. MH-ET Live ESP32 Devkit      - MH-ET Live ESP32 Devkit 38 pins. [Aliexpress link to purchase.](http://ali.pub/37cnuh)
 
 Third parties fritzing parts (links to orig resources)
 1. MAX31855                     - https://github.com/SV-Zanshin/MAX31855/tree/master/Fritzing
