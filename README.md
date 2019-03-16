@@ -11,3 +11,4 @@ My fritzing parts
 Third parties fritzing parts
 1. MAX31855                     - https://github.com/SV-Zanshin/MAX31855/tree/master/Fritzing
 2. ESP32 chip                   - https://github.com/troelssiggaard/ESP32-fritzing-module
+3. LuaNode32_ESP32              - https://github.com/TD-er/fritzing-parts/tree/master/LuaNode32_ESP32
