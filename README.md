@@ -3,6 +3,7 @@ Fritzing parts for my IoT projects.
 
 My fritzing parts
 1. MCP23017 (CJMCU-2317 board)  - [Example](http://www.bizkit.ru/2019/02/20/12466/) of usage - GPIO ports expander. [Aliexpress](http://ali.pub/314jkh).
+<img src="https://github.com/Warlib1975/Fritzing-parts/blob/master/images/CJMCU2317-MCP23017.jpg?raw=true" width="50%" height="50%"/>
 2. SIM800C board                - [Example](http://www.bizkit.ru/2019/02/05/11989/) of usage - 2G GSM board SIM800C. [Aliexpress](http://ali.pub/336m90).
 <img src="http://www.bizkit.ru/wp-content/uploads/2019/03/SIM800C.jpg" width="50%" height="50%"/>
 3. RS485 (XY-017 board)         - [Example](http://www.bizkit.ru/2019/01/23/11734/) of usage- RS485 interface board. [Aliexpress](http://ali.pub/3148q8).  
@@ -14,6 +15,7 @@ My fritzing parts
 6. MH-ET Live ESP32 Devkit 38 pins - [Aliexpress](http://ali.pub/37cojk).
 <img src="https://i0.wp.com/www.bizkit.ru/wp-content/uploads/2019/03/MH-ET_LIVE_ESP32_DEVKIT_38_pins.jpg?fit=640%2C317" width="50%" height="50%"/>
 7. GY-ADS1115 (cherry board)    - [Aliexpress](http://ali.pub/312tet).
+<img src="https://github.com/Warlib1975/Fritzing-parts/blob/master/images/GY-ADS1115.jpg?raw=true" width="50%" height="50%"/>
 8. RS485 (MAX3485 chip)			- [Example](http://www.bizkit.ru/en/2019/02/21/12563/) of usage - Inexpensive RS485 board. [Aliexpress](http://ali.pub/343066). 
 <img src="https://i2.wp.com/www.bizkit.ru/wp-content/uploads/2019/03/RS485-module-MAX485.jpg?fit=640%2C206" width="50%" height="50%"/>
 
