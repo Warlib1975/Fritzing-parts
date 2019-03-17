@@ -1,21 +1,21 @@
 # Fritzing parts for my IoT projects.
 
 My fritzing parts
-1. MCP23017 (CJMCU-2317 board)  - [Example](http://www.bizkit.ru/2019/02/20/12466/) of usage - GPIO ports expander. [Aliexpress](http://ali.pub/314jkh).
+1. MCP23017 (CJMCU-2317 board)  - [Example](http://www.bizkit.ru/2019/02/20/12466/) of usage - GPIO ports expander. [Aliexpress](http://ali.pub/314jkh).  
 ![MCP23017 (CJMCU-2317 board) fritzing part](https://github.com/Warlib1975/Fritzing-parts/blob/master/images/CJMCU2317-MCP23017.jpg?raw=true)
-2. SIM800C board                - [Example](http://www.bizkit.ru/2019/02/05/11989/) of usage - 2G GSM board SIM800C. [Aliexpress](http://ali.pub/336m90).
+2. SIM800C board                - [Example](http://www.bizkit.ru/2019/02/05/11989/) of usage - 2G GSM board SIM800C. [Aliexpress](http://ali.pub/336m90).  
 ![SIM800C board fritzing part](https://github.com/Warlib1975/Fritzing-parts/blob/master/images/SIM800C.jpg?raw=true)
-3. RS485 (XY-017 board)         - [Example](http://www.bizkit.ru/2019/01/23/11734/) of usage- RS485 interface board. [Aliexpress](http://ali.pub/3148q8).  
+3. RS485 (XY-017 board)         - [Example](http://www.bizkit.ru/2019/01/23/11734/) of usage- RS485 interface board. [Aliexpress](http://ali.pub/3148q8).    
 ![RS485 (XY-017 board) fritzing part](https://github.com/Warlib1975/Fritzing-parts/blob/master/images/RS485_XY-017.jpg?raw=true)
-4. XY-ItoV                      - [Example](http://www.bizkit.ru/2019/03/04/12742/) of usage - Current 4..20 mA to voltage board. [Aliexpress](http://ali.pub/313dyv).
+4. XY-ItoV                      - [Example](http://www.bizkit.ru/2019/03/04/12742/) of usage - Current 4..20 mA to voltage board. [Aliexpress](http://ali.pub/313dyv).  
 ![XY-ItoV fritzing part](https://github.com/Warlib1975/Fritzing-parts/blob/master/images/XY-ITOV.jpg?raw=true)
-5. SIM800L                      - 2G GSM board SIM800L.
+5. SIM800L                      - 2G GSM board SIM800L.  
 ![SIM800L fritzing part](https://github.com/Warlib1975/Fritzing-parts/blob/master/images/SIM800L.jpg?raw=true)
-6. MH-ET Live ESP32 Devkit 38 pins - [Aliexpress](http://ali.pub/37cojk).
+6. MH-ET Live ESP32 Devkit 38 pins - [Aliexpress](http://ali.pub/37cojk).  
 ![MH-ET Live ESP32 Devkit 38 pins fritzing part](https://github.com/Warlib1975/Fritzing-parts/blob/master/images/MH-ET_LIVE_ESP32_DEVKIT_38_pins.jpg?raw=true)
-7. GY-ADS1115 (cherry board)    - [Aliexpress](http://ali.pub/312tet).
+7. GY-ADS1115 (cherry board)    - [Aliexpress](http://ali.pub/312tet).  
 ![GY-ADS1115 (cherry board) fritzing part](https://github.com/Warlib1975/Fritzing-parts/blob/master/images/ADS1115_cherry_board.jpg?raw=true)
-8. RS485 (MAX3485 chip)			- [Example](http://www.bizkit.ru/en/2019/02/21/12563/) of usage - Inexpensive RS485 board. [Aliexpress](http://ali.pub/343066). 
+8. RS485 (MAX3485 chip)			- [Example](http://www.bizkit.ru/en/2019/02/21/12563/) of usage - Inexpensive RS485 board. [Aliexpress](http://ali.pub/343066).  
 ![RS485 (MAX3485 chip) fritzing part](https://github.com/Warlib1975/Fritzing-parts/blob/master/images/RS485%20module%20MAX485.jpg?raw=true)
 
 # Third parties fritzing parts (links to orig resources)
