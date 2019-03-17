@@ -2,7 +2,7 @@
 
 My fritzing parts
 1. MCP23017 (CJMCU-2317 board)  - [Example](http://www.bizkit.ru/2019/02/20/12466/) of usage - GPIO ports expander. [Aliexpress](http://ali.pub/314jkh).
-![MCP23017 (CJMCU-2317 board) fritzing part](https://github.com/Warlib1975/Fritzing-parts/blob/master/images/CJMCU2317-MCP23017.jpg =250x250)
+![MCP23017 (CJMCU-2317 board) fritzing part](https://github.com/Warlib1975/Fritzing-parts/blob/master/images/CJMCU2317-MCP23017.jpg)
 2. SIM800C board                - [Example](http://www.bizkit.ru/2019/02/05/11989/) of usage - 2G GSM board SIM800C. [Aliexpress](http://ali.pub/336m90).
 ![SIM800C board fritzing part](http://www.bizkit.ru/wp-content/uploads/2019/03/SIM800C.jpg")
 3. RS485 (XY-017 board)         - [Example](http://www.bizkit.ru/2019/01/23/11734/) of usage- RS485 interface board. [Aliexpress](http://ali.pub/3148q8).  
