@@ -7,7 +7,7 @@ My fritzing parts
 3. RS485 (XY-017 board)         - [Example](http://www.bizkit.ru/2019/01/23/11734/) of usage- RS485 interface board. [Aliexpress](http://ali.pub/3148q8).  
 4. XY-ItoV                      - [Example](http://www.bizkit.ru/2019/03/04/12742/) of usage - Current 4..20 mA to voltage board. [Aliexpress](http://ali.pub/313dyv).
 ![XY-ITOV Fritzing part (fzpz) file.](https://i1.wp.com/www.bizkit.ru/wp-content/uploads/2019/03/XY-ITOV.jpg?fit=640%2C382)
-<img src="https://i1.wp.com/www.bizkit.ru/wp-content/uploads/2019/03/XY-ITOV.jpg?fit=640%2C382" width="100" height="100">
+<img src="https://i1.wp.com/www.bizkit.ru/wp-content/uploads/2019/03/XY-ITOV.jpg?fit=640%2C382" width="50%" height="50%">
 5. SIM800L                      - 2G GSM board SIM800L.
 6. MH-ET Live ESP32 Devkit 38 pins - [Aliexpress](http://ali.pub/37cojk).
 7. GY-ADS1115 (cherry board)    - [Aliexpress](http://ali.pub/312tet).
