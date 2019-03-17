@@ -8,6 +8,7 @@ My fritzing parts
 4. XY-ItoV                      - [Example](http://www.bizkit.ru/2019/03/04/12742/) of usage - Current 4..20 mA to voltage board. [Aliexpress](http://ali.pub/313dyv).
 5. SIM800L                      - 2G GSM board SIM800L.
 6. MH-ET Live ESP32 Devkit 38 pins - [Aliexpress](http://ali.pub/37cojk).
+7. GY-ADS1115 (cherry board)    - [Aliexpress](http://ali.pub/312tet).
 
 Third parties fritzing parts (links to orig resources)
 1. [MAX31855](https://github.com/SV-Zanshin/MAX31855/tree/master/Fritzing)
