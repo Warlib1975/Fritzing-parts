@@ -9,6 +9,7 @@ My fritzing parts
 5. SIM800L                      - 2G GSM board SIM800L.
 6. MH-ET Live ESP32 Devkit 38 pins - [Aliexpress](http://ali.pub/37cojk).
 7. GY-ADS1115 (cherry board)    - [Aliexpress](http://ali.pub/312tet).
+8. RS485 (MAX3485 chip)			- [Example](http://www.bizkit.ru/en/2019/02/21/12563/) of usage - Inexpensive RS485 board. [Aliexpress](http://ali.pub/343066). 
 
 Third parties fritzing parts (links to orig resources)
 1. [MAX31855](https://github.com/SV-Zanshin/MAX31855/tree/master/Fritzing)
