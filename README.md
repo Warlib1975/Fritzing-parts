@@ -14,7 +14,7 @@ My fritzing parts
 6. MH-ET Live ESP32 Devkit 38 pins - [Aliexpress](http://ali.pub/37cojk).
 ![MH-ET Live ESP32 Devkit 38 pins fritzing part](https://i0.wp.com/www.bizkit.ru/wp-content/uploads/2019/03/MH-ET_LIVE_ESP32_DEVKIT_38_pins.jpg)
 7. GY-ADS1115 (cherry board)    - [Aliexpress](http://ali.pub/312tet).
-![GY-ADS1115 (cherry board) fritzing part](https://github.com/Warlib1975/Fritzing-parts/blob/master/images/GY-ADS1115.jpg)
+![GY-ADS1115 (cherry board) fritzing part](https://github.com/Warlib1975/Fritzing-parts/blob/master/images/GY-ADS1115_orig_size.jpg)
 8. RS485 (MAX3485 chip)			- [Example](http://www.bizkit.ru/en/2019/02/21/12563/) of usage - Inexpensive RS485 board. [Aliexpress](http://ali.pub/343066). 
 ![RS485 (MAX3485 chip) fritzing part](https://i2.wp.com/www.bizkit.ru/wp-content/uploads/2019/03/RS485-module-MAX485.jpg)
 
