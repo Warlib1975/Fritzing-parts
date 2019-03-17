@@ -1355,7 +1355,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.5533259"
-     inkscape:cx="121.72287"
+     inkscape:cx="73.739655"
      inkscape:cy="976.47484"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -1373,7 +1373,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -38830,6 +38830,80 @@
             </g>
           </g>
         </g>
+      </g>
+    </g>
+    <g
+       transform="matrix(0.25399999,0,0,0.25399999,-957.71615,-718.28189)"
+       style="display:inline"
+       id="g10790">
+      <g
+         id="g1729"
+         style="display:inline"
+         transform="translate(3.5847587e-5,-5.1196505e-5)">
+        <rect
+           style="opacity:1;vector-effect:none;fill:#2382c6;fill-opacity:1;stroke:none;stroke-width:0.37228575;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;shape-rendering:crispEdges"
+           id="rect3613"
+           width="27.559055"
+           height="39.370079"
+           x="3990.6924"
+           y="3020.3447" />
+        <g
+           id="g1719"
+           transform="translate(0,-0.7334922)">
+          <g
+             transform="rotate(-58.382509,4001.9211,3030.7239)"
+             id="g1625">
+            <circle
+               style="opacity:1;fill:#4c4147;fill-opacity:1;stroke:none;stroke-width:0.64960635;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;shape-rendering:crispEdges"
+               id="path10259"
+               cx="4001.9211"
+               cy="3030.7239"
+               r="6.8841047" />
+            <rect
+               style="opacity:1;fill:#867969;fill-opacity:1;stroke:none;stroke-width:0.61078447;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;shape-rendering:crispEdges"
+               id="rect10261"
+               width="2.3506699"
+               height="13.698513"
+               x="4000.7458"
+               y="3023.8428" />
+          </g>
+          <g
+             id="g1625-1"
+             style="display:inline"
+             transform="rotate(29.925922,3964.3518,3040.7457)">
+            <circle
+               style="opacity:1;fill:#4c4147;fill-opacity:1;stroke:none;stroke-width:0.64960635;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;shape-rendering:crispEdges"
+               id="path10259-8"
+               cx="4001.9211"
+               cy="3030.7239"
+               r="6.8841047" />
+            <rect
+               style="opacity:1;fill:#867969;fill-opacity:1;stroke:none;stroke-width:0.61078447;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;shape-rendering:crispEdges"
+               id="rect10261-0"
+               width="2.3506699"
+               height="13.698513"
+               x="4000.7458"
+               y="3023.8428" />
+          </g>
+        </g>
+      </g>
+      <g
+         transform="translate(-11.663539,-9.5464262)"
+         id="g1014">
+        <circle
+           transform="scale(1,-1)"
+           style="fill:none;stroke:#ffbf00;stroke-width:1.19999993;shape-rendering:crispEdges"
+           id="connector1pin-6"
+           cx="4013.4146"
+           cy="-3039.2981"
+           r="1.65" />
+        <circle
+           transform="scale(1,-1)"
+           style="fill:none;stroke:#ffbf00;stroke-width:1.19999993;shape-rendering:crispEdges"
+           id="connector2pin"
+           cx="4013.4146"
+           cy="-3059.002"
+           r="1.65" />
       </g>
     </g>
   </g>
