@@ -7,17 +7,17 @@ My fritzing parts
 2. SIM800C board                - [Example](http://www.bizkit.ru/2019/02/05/11989/) of usage - 2G GSM board SIM800C. [Aliexpress](http://ali.pub/336m90).
 ![SIM800C board fritzing part](http://www.bizkit.ru/wp-content/uploads/2019/03/SIM800C.jpg")
 3. RS485 (XY-017 board)         - [Example](http://www.bizkit.ru/2019/01/23/11734/) of usage- RS485 interface board. [Aliexpress](http://ali.pub/3148q8).  
-![RS485 (XY-017 board) fritzing part](https://i0.wp.com/www.bizkit.ru/wp-content/uploads/2019/03/RS485_XY-017.jpg?fit=640%2C225)
+![RS485 (XY-017 board) fritzing part](https://i0.wp.com/www.bizkit.ru/wp-content/uploads/2019/03/RS485_XY-017.jpg)
 4. XY-ItoV                      - [Example](http://www.bizkit.ru/2019/03/04/12742/) of usage - Current 4..20 mA to voltage board. [Aliexpress](http://ali.pub/313dyv).
-![XY-ItoV fritzing part](https://i1.wp.com/www.bizkit.ru/wp-content/uploads/2019/03/XY-ITOV.jpg?fit=640%2C382)
+![XY-ItoV fritzing part](https://i1.wp.com/www.bizkit.ru/wp-content/uploads/2019/03/XY-ITOV.jpg)
 5. SIM800L                      - 2G GSM board SIM800L.
-![SIM800L fritzing part](https://i2.wp.com/www.bizkit.ru/wp-content/uploads/2019/03/SIM800L-1.jpg?fit=534%2C600)
+![SIM800L fritzing part](https://i2.wp.com/www.bizkit.ru/wp-content/uploads/2019/03/SIM800L-1.jpg)
 6. MH-ET Live ESP32 Devkit 38 pins - [Aliexpress](http://ali.pub/37cojk).
-![MH-ET Live ESP32 Devkit 38 pins fritzing part](https://i0.wp.com/www.bizkit.ru/wp-content/uploads/2019/03/MH-ET_LIVE_ESP32_DEVKIT_38_pins.jpg?fit=640%2C317)
+![MH-ET Live ESP32 Devkit 38 pins fritzing part](https://i0.wp.com/www.bizkit.ru/wp-content/uploads/2019/03/MH-ET_LIVE_ESP32_DEVKIT_38_pins.jpg)
 7. GY-ADS1115 (cherry board)    - [Aliexpress](http://ali.pub/312tet).
-![GY-ADS1115 (cherry board) fritzing part](https://github.com/Warlib1975/Fritzing-parts/blob/master/images/GY-ADS1115.jpg?raw=true)
+![GY-ADS1115 (cherry board) fritzing part](https://github.com/Warlib1975/Fritzing-parts/blob/master/images/GY-ADS1115.jpg)
 8. RS485 (MAX3485 chip)			- [Example](http://www.bizkit.ru/en/2019/02/21/12563/) of usage - Inexpensive RS485 board. [Aliexpress](http://ali.pub/343066). 
-![RS485 (MAX3485 chip) fritzing part](https://i2.wp.com/www.bizkit.ru/wp-content/uploads/2019/03/RS485-module-MAX485.jpg?fit=640%2C206)
+![RS485 (MAX3485 chip) fritzing part](https://i2.wp.com/www.bizkit.ru/wp-content/uploads/2019/03/RS485-module-MAX485.jpg)
 
 Third parties fritzing parts (links to orig resources)
 1. [MAX31855](https://github.com/SV-Zanshin/MAX31855/tree/master/Fritzing)
