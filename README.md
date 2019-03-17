@@ -18,7 +18,7 @@
 ![RS485 (MAX3485 chip) fritzing part](https://github.com/Warlib1975/Fritzing-parts/blob/master/images/RS485%20module%20MAX485.jpg?raw=true)
 
 # Third parties fritzing parts (links to orig resources)
-1. [MAX31855](https://github.com/adafruit/Fritzing-Library/blob/master/parts/Adafruit%20Thermocouple%20Amplifier%20MAX31855.fzpz). [MAX31855](https://github.com/SV-Zanshin/MAX31855/tree/master/Fritzing). [Example](http://www.bizkit.ru/2019/03/13/12936/) of usage. [Aliexpress](http://ali.pub/314r1z). 
+1. [MAX31855](https://github.com/adafruit/Fritzing-Library/blob/master/parts/Adafruit%20Thermocouple%20Amplifier%20MAX31855.fzpz). [MAX31855](https://github.com/SV-Zanshin/MAX31855/tree/master/Fritzing). [Example](http://www.bizkit.ru/2019/03/13/12936/) of usage. [Aliexpress](http://ali.pub/314r1z).  
 ![MAX31855 fritzing parts.](https://github.com/Warlib1975/Fritzing-parts/blob/master/images/MAX31855.jpg?raw=true)
 2. [ESP32 chip](https://github.com/troelssiggaard/ESP32-fritzing-module).  
 ![ESP32 chip fritzing parts.](https://github.com/Warlib1975/Fritzing-parts/blob/master/images/ESP-WROOM-32.jpg?raw=true)
