@@ -28,5 +28,5 @@
 ![NodeMCU_ESP8266 fritzing parts.](https://github.com/Warlib1975/Fritzing-parts/blob/master/images/NodeMCU_V1.jpg?raw=true)
 5. [ADS1115 (blue board)](https://github.com/adafruit/Fritzing-Library/blob/master/parts/Adafruit%20ADS1115%2016Bit%20I2C%20ADC.fzpz). The module available at [Aliexpress](http://ali.pub/312tet).  
 ![ADS1115 (blue board) fritzing parts.](https://github.com/Warlib1975/Fritzing-parts/blob/master/images/ADS1115_blue_board.jpg?raw=true)
-6. [MCP23017 extender (blue board)](https://github.com/e-radionicacom/e-radionica.com-Fritzing-Library-parts-/blob/master/MCP23017-IO-Expander.fzpz).
+6. [MCP23017 extender (blue board)](https://github.com/e-radionicacom/e-radionica.com-Fritzing-Library-parts-/blob/master/MCP23017-IO-Expander.fzpz).  
 ![MCP23017 extender (blue board)](https://github.com/Warlib1975/Fritzing-parts/blob/master/images/MCP23017_extender_blue_board.jpg)
